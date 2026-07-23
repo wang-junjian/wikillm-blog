@@ -1,0 +1,898 @@
+# Cluster Report
+
+Total posts: 788
+Unique tags: 2347
+
+## Top 60 tags
+- llm: 146
+- python: 116
+- docker: 92
+- agent: 69
+- mcp: 64
+- linux: 63
+- macos: 47
+- kubernetes: 46
+- command-line: 44
+- openai: 41
+- qwen: 41
+- ubuntu: 36
+- ai-coding-assistant: 35
+- ai-agent: 35
+- sysadmin: 32
+- gpu: 32
+- machine-learning: 31
+- ai: 31
+- shell: 30
+- deep-learning: 29
+- cli: 29
+- rag: 29
+- computer-vision: 28
+- langchain: 28
+- vllm: 28
+- github-copilot: 27
+- ollama: 27
+- openclaw: 27
+- generative-ai: 26
+- typescript: 25
+- nvidia: 24
+- deepseek: 24
+- claude-code: 24
+- apple-silicon: 23
+- 智能体: 23
+- networking: 22
+- cuda: 22
+- vscode: 21
+- inference: 21
+- chatgpt: 21
+- prompt-engineering: 21
+- fine-tuning: 21
+- tool: 21
+- browser: 21
+- installation: 20
+- macbookpro: 20
+- hugging-face: 20
+- quantization: 20
+- anthropic: 20
+- cline: 20
+- tutorial: 18
+- pytorch: 18
+- multi-agent: 18
+- containers: 17
+- deployment: 17
+- kubectl: 17
+- continue: 17
+- claude: 17
+- code-llm: 16
+- lora: 16
+
+## Top tag co-occurrences
+- command-line + linux: 31
+- linux + sysadmin: 24
+- docker + python: 23
+- linux + ubuntu: 22
+- command-line + shell: 19
+- macbookpro + macos: 19
+- linux + shell: 18
+- agent + llm: 18
+- browser + tool: 18
+- containers + docker: 17
+- sysadmin + ubuntu: 17
+- kubectl + kubernetes: 17
+- docker + llm: 17
+- llm + qwen: 17
+- docker + gpu: 16
+- openai + python: 16
+- llm + python: 16
+- computer-vision + deep-learning: 15
+- langchain + llm: 15
+- cline + mcp: 15
+- mcp + mcp-server: 15
+- gpu + nvidia: 14
+- llm + openai: 14
+- llm + rag: 14
+- qwen + vllm: 14
+- llm + vllm: 14
+- docker + dockerfile: 13
+- npu + 昇腾: 13
+- chatgpt + openai: 13
+- ai + generative-ai: 13
+- deepseek + llm: 13
+- mcp + model-context-protocol: 13
+- docker + nvidia: 12
+- command-line + sysadmin: 12
+- cuda + gpu: 12
+- docker + kubernetes: 12
+- llm + ollama: 12
+- agent + workbuddy: 12
+- networking + sysadmin: 11
+- docker + ubuntu: 11
+
+## Per-post index (date | title | path | top tags)
+- 2018-07-03 00:00:00 +0800 | macOS实践 | raw/posts/2018/2018-07-03-macos-practice.md | macos, mac, terminal
+- 2018-12-26 00:00:00 +0800 | 基于容器的负载均衡 | raw/posts/2018/2018-12-26-container-based-load-balancing.md | haproxy, 负载均衡, docker
+- 2018-12-26 10:00:00 +0800 | MAC 远程连接 Ubuntu 桌面 | raw/posts/2018/2018-12-26-mac-remote-connect-ubuntu-desktop.md | ubuntu, linux, mac
+- 2018-12-26 08:00:00 +0800 | 开启SSH服务 | raw/posts/2018/2018-12-26-open-ssh-service.md | ssh, service, ubuntu
+- 2019-02-20 00:00:00 +0800 | 搭建 Private Docker Registry | raw/posts/2019/2019-02-20-build-a-private-docker-registry.md | docker, registry, private-registry
+- 2019-03-05 00:00:00 +0800 | Dockerfile JDK-MCR(MATLAB Compiler Runtime) | raw/posts/2019/2019-03-05-dockerfile-jdk-mcr(matlab-compiler-runtime).md | docker, dockerfile, java
+- 2019-04-12 00:00:00 +0800 | Linux系统网络配置 | raw/posts/2019/2019-04-12-linux-system-network-configuration.md | ubuntu, linux, networking
+- 2019-05-19 08:00:00 +0800 | 在 Linux 上安装输入法 | raw/posts/2019/2019-05-19-install-input-method-on-linux.md | 输入法, linux, ubuntu
+- 2019-07-01 00:00:00 +0800 | 使用Darknet在自定义数据集上训练YOLOv3 | raw/posts/2019/2019-07-01-use-darknet-to-train-yolov3-on-a-custom-data-set.md | 目标检测, darknet, yolo
+- 2019-07-09 00:00:00 +0800 | 基于Darknet框架的YOLOv3算法开发的模型训练和部署的容器化产品 | raw/posts/2019/2019-07-09-a-containerized-product-for-model-training-and-deployment-based-on-the-yolov3-algorithm-developed-by-the-darknet-framework.md | 目标检测, darknet, yolo
+- 2019-07-23 00:00:00 +0800 | Jupyter Notebook实践 | raw/posts/2019/2019-07-23-jupyter-notebook-practice.md | jupyter, jupyterhub, python
+- 2019-09-01 00:00:00 +0800 | 使用Detectron在自定义数据集上训练MaskRCNN | raw/posts/2019/2019-09-01-use-detectron-to-train-maskrcnn-on-a-custom-dataset.md | 目标检测, detectron, mask-rcnn
+- 2020-06-06 00:00:00 +0800 | 构建YOLOv4容器应用在自定义数据集上 | raw/posts/2020/2020-06-06-build-a-yolov4-container-application-on-a-custom-data-set.md | 目标检测, yolo, yolov4
+- 2020-06-13 00:00:00 +0800 | SSH使用密匙登录 | raw/posts/2020/2020-06-13-ssh-login-with-key.md | linux, ssh, ssh-keygen
+- 2020-06-14 00:00:00 +0800 | Linux设置时区 | raw/posts/2020/2020-06-14-linux-set-time-zone.md | linux, timezone, sysadmin
+- 2020-07-08 00:00:00 +0800 | 将注释从PASCAL VOC转换为YOLO Darknet | raw/posts/2020/2020-07-08-convert-annotations-from-pascal-voc-to-yolo-darknet.md | 目标检测, yolo, darknet
+- 2020-07-30 00:00:00 +0800 | 使用RetinaNet算法训练自定义数据集 | raw/posts/2020/2020-07-30-use-retinanet-to-train-a-custom-dataset.md | 目标检测, retinanet, tensorflow
+- 2020-09-03 00:00:00 +0800 | 磁盘：分区－格式化－挂载 | raw/posts/2020/2020-09-03-disk-partition-format-mount.md | linux, disk, partition
+- 2020-09-10 00:00:00 +0800 | NFS配置 | raw/posts/2020/2020-09-10-nfs-configuration.md | linux, ubuntu, nfs
+- 2020-09-12 00:00:00 +0800 | 安装Harbor | raw/posts/2020/2020-09-12-install-harbor.md | docker, harbor, ubuntu
+- 2020-10-15 12:51:46 +0800 | Welcome to Jekyll! | raw/posts/2020/2020-10-15-welcome-to-jekyll.md | jekyll, static-generator, ruby
+- 2020-10-16 12:00:00 +0800 | 基于Apt-Cacher NG创建本地Ubuntu存储库 | raw/posts/2020/2020-10-16-create-local-ubuntu-repository.md | ubuntu, apt, cache
+- 2020-10-17 00:00:00 +0800 | 在Ubuntu上安装Docker | raw/posts/2020/2020-10-17-install-docker-on-ubuntu.md | docker, ubuntu, installation
+- 2020-10-18 00:00:00 +0800 | 在Ubuntu上安装nvidia-docker2 | raw/posts/2020/2020-10-18-install-nvidia-docker2-on-ubuntu.md | docker, nvidia, gpu
+- 2020-10-29 00:00:00 +0800 | Linux系统上修改用户名 | raw/posts/2020/2020-10-29-modify-user-name-on-linux-system.md | linux, ubuntu, user-management
+- 2020-10-30 00:00:00 +0800 | Linux系统DNS设置 | raw/posts/2020/2020-10-30-linux-system-dns-settings.md | linux, ubuntu, dns
+- 2020-10-31 00:00:00 +0800 | Linux系统禁用交换分区 | raw/posts/2020/2020-10-31-disable-devices-and-files-for-paging-and-swapping.md | linux, ubuntu, swap
+- 2020-11-01 00:00:00 +0800 | 在Ubuntu上配置apt镜像源 | raw/posts/2020/2020-11-01-configure-apt-mirror-source-on-ubuntu.md | ubuntu, apt, mirror
+- 2020-11-02 00:00:00 +0800 | 配置Docker镜像源 | raw/posts/2020/2020-11-02-configure-docker-mirror-source.md | docker, mirror, china
+- 2020-11-03 00:00:00 +0800 | 在Ubuntu上安装NVIDIA GPU驱动 | raw/posts/2020/2020-11-03-install-nvidia-gpu-driver-on-ubuntu.md | linux, ubuntu, nvidia
+- 2020-11-04 00:00:00 +0800 | 使用YOLOv5训练自定义数据集 | raw/posts/2020/2020-11-04-use-yolov5-to-train-a-custom-dataset.md | 目标检测, yolo, yolov5
+- 2020-11-05 00:00:00 +0800 | Kubernetes集群加入Worker节点 | raw/posts/2020/2020-11-05-kubernetes-cluster-joins-worker-node.md | kubernetes, docker, ubuntu
+- 2020-11-06 00:00:00 +0800 | Kubernetes集群搭建Master节点 | raw/posts/2020/2020-11-06-kubernetes-cluster-build-master-node.md | kubernetes, docker, ubuntu
+- 2020-11-07 00:00:00 +0800 | 配置Kubernetes镜像源 | raw/posts/2020/2020-11-07-configure-kubernetes-mirror-source.md | kubernetes, ubuntu, mirror
+- 2020-11-08 00:00:00 +0800 | Python文件、目录、路径操作 | raw/posts/2020/2020-11-08-python-file-directory-path-operation.md | python, file, directory
+- 2020-11-09 00:00:00 +0800 | 配置pip镜像源 | raw/posts/2020/2020-11-09-configure-pip-mirror-source.md | python, pip, mirror
+- 2020-11-10 00:00:00 +0800 | GitHub加速 | raw/posts/2020/2020-11-10-github-accelerate.md | github, acceleration, china
+- 2020-11-28 00:00:00 +0800 | Linux上查找系统信息 | raw/posts/2020/2020-11-28-find-system-information-on-linux.md | linux, sysadmin, hardware
+- 2020-11-30 00:00:00 +0800 | SSH允许使用密码进行root登录 | raw/posts/2020/2020-11-30-ssh-allows-root-login-with-password.md | linux, ssh, security
+- 2020-12-02 00:00:00 +0800 | 在Ubuntu上下载docker和nvidia-docker2离线安装包 | raw/posts/2020/2020-12-02-download-docker-and-nvidia-docker2-offline-installation-package-on-ubuntu.md | docker, ubuntu, nvidia-docker2
+- 2020-12-20 00:00:00 +0800 | 命令ls | raw/posts/2020/2020-12-20-command-ls.md | linux, command-line, ls
+- 2020-12-21 00:00:00 +0800 | 命令wget | raw/posts/2020/2020-12-21-command-wget.md | linux, command-line, wget
+- 2020-12-22 00:00:00 +0800 | 命令sed | raw/posts/2020/2020-12-22-command-sed.md | linux, command-line, sed
+- 2020-12-23 00:00:00 +0800 | 图像格式转换、尺寸调整 | raw/posts/2020/2020-12-23-image-format-convert-and-resize.md | linux, imagemagick, image-processing
+- 2020-12-28 00:00:00 +0800 | 命令grep | raw/posts/2020/2020-12-28-command-grep.md | linux, command-line, grep
+- 2020-12-29 00:00:00 +0800 | 命令find | raw/posts/2020/2020-12-29-command-find.md | linux, command-line, find
+- 2021-01-01 00:00:00 +0800 | 在YOLOv5中运行JupyterLab和TensorBoard | raw/posts/2021/2021-01-01-run-jupyterlab-and-tensorboard-in-yolov5.md | jupyter, jupyterlab, tensorboard
+- 2021-01-02 00:00:00 +0800 | 命令history | raw/posts/2021/2021-01-02-command-history.md | linux, bash, command-line
+- 2021-01-03 00:00:00 +0800 | 命令ffmpeg | raw/posts/2021/2021-01-03-command-ffmpeg.md | linux, ffmpeg, gpu
+- 2021-01-04 00:00:00 +0800 | VLC Extension Example | raw/posts/2021/2021-01-04-vlc-extension-example.md | vlc, lua, scripting
+- 2021-01-08 00:00:00 +0800 | Building ONNX Runtime | raw/posts/2021/2021-01-08-building-onnxruntime.md | linux, ubuntu, gpu
+- 2021-01-08 00:00:00 +0800 | Dockerfile ONNXRuntime GPU | raw/posts/2021/2021-01-08-dockerfile-onnxruntime-gpu.md | docker, dockerfile, onnxruntime
+- 2021-01-09 00:00:00 +0800 | Dockerfile OpenCV4 Ubuntu20.04 | raw/posts/2021/2021-01-09-dockerfile-opencv4-ubuntu2004.md | docker, dockerfile, opencv
+- 2021-01-10 00:00:00 +0800 | Apache HTTP Server实践 | raw/posts/2021/2021-01-10-apache-http-server-practice.md | linux, apache, webserver
+- 2021-01-11 00:00:00 +0800 | Docker实践 | raw/posts/2021/2021-01-11-docker-practice.md | docker, gpu, nvidia
+- 2021-01-12 00:00:00 +0800 | 基于PyPIServer创建私有Python软件包存储库 | raw/posts/2021/2021-01-12-create-a-private-python-package-repository-based-on-pypiserver.md | python, pip, pypi
+- 2021-01-13 00:00:00 +0800 | 基于Apt-Mirror创建私有Ubuntu存储库 | raw/posts/2021/2021-01-13-create-a-private-ubuntu-repository-based-on-apt-mirror.md | linux, ubuntu, apt
+- 2021-01-14 00:00:00 +0800 | 命令chown | raw/posts/2021/2021-01-14-command-chown.md | linux, chown, command-line
+- 2021-01-15 00:00:00 +0800 | 命令ln | raw/posts/2021/2021-01-15-command-ln.md | linux, ln, command-line
+- 2021-01-16 00:00:00 +0800 | vim实践 | raw/posts/2021/2021-01-16-vim-practice.md | linux, vim, editor
+- 2021-01-17 00:00:00 +0800 | 命令top | raw/posts/2021/2021-01-17-command-top.md | linux, top, system-info
+- 2021-01-18 00:00:00 +0800 | 命令du | raw/posts/2021/2021-01-18-command-du.md | linux, du, disk
+- 2021-01-19 00:00:00 +0800 | 命令cp | raw/posts/2021/2021-01-19-command-cp.md | linux, cp, file
+- 2021-01-20 00:00:00 +0800 | 命令tar | raw/posts/2021/2021-01-20-command-tar.md | linux, tar, compression
+- 2021-01-20 00:00:00 +0900 | 命令zip | raw/posts/2021/2021-01-20-command-zip.md | linux, zip, compression
+- 2021-01-21 00:00:00 +0800 | 命令ssh | raw/posts/2021/2021-01-21-command-ssh.md | linux, ssh, security
+- 2021-01-22 00:00:00 +0800 | 基于vsftpd安装FTP服务器 | raw/posts/2021/2021-01-22-install-ftp-server-based-on-vsftpd.md | linux, ftp, vsftpd
+- 2021-01-24 00:00:00 +0800 | 抽取视频关键帧保存zip文件 | raw/posts/2021/2021-01-24-extract-video-key-frames-and-save-zip-file.md | linux, shell, ffmpeg
+- 2021-01-29 00:00:00 +0800 | Linux Shell 执行方式 | raw/posts/2021/2021-01-29-linux-shell-execution-mode.md | linux, shell, bash
+- 2021-01-30 00:00:00 +0800 | Linux Shell 实践 | raw/posts/2021/2021-01-30-linux-shell-practice.md | linux, shell, bash
+- 2021-02-21 00:00:00 +0800 | 基于NodeMCU(ESP8266)搭建Python开发环境 | raw/posts/2021/2021-02-21-build-a-python-development-environment-based-on-nodemcu-esp8266.md | micropython, nodemcu, esp8266
+- 2021-02-22 00:00:00 +0800 | 基于NodeMCU(ESP32)搭建Python开发环境 | raw/posts/2021/2021-02-22-build-a-python-development-environment-based-on-nodemcu-esp32.md | micropython, nodemcu, esp32
+- 2021-02-23 00:00:00 +0800 | 基于腾讯云物联网开发平台的智能电灯 | raw/posts/2021/2021-02-23-smart-light-based-on-tencent-cloud-iot-development-platform.md | micropython, mqtt, nodemcu
+- 2021-02-24 00:00:00 +0800 | 基于腾讯云物联网开发平台的光照传感器 | raw/posts/2021/2021-02-24-light-sensor-based-on-tencent-cloud-iot-development-platform.md | micropython, mqtt, nodemcu
+- 2021-02-25 00:00:00 +0800 | Install NVIDIA device plugin for Kubernetes | raw/posts/2021/2021-02-25-install-nvidia-device-plugin-for-kubernetes.md | kubernetes, nvidia, gpu
+- 2021-02-24 00:00:00 +0800 | 基于腾讯云物联网开发平台的场景联动（智能电灯和光照传感器） | raw/posts/2021/2021-02-26-scene-linkage-based-on-tencent-cloud-iot-development-platform-(smart-lights-and-light-sensors).md | iot, tencent-cloud, smart-home
+- 2021-02-27 00:00:00 +0800 | Python爬虫实践 | raw/posts/2021/2021-02-27-python-crawler-practice.md | python, web-scraping, requests
+- 2021-02-28 00:00:00 +0800 | Python实践 | raw/posts/2021/2021-02-28-python-practice.md | python, asyncio, decorators
+- 2021-03-01 00:00:00 +0800 | VS Code实践 | raw/posts/2021/2021-03-01-vscode-practice.md | vscode, ide, productivity
+- 2021-03-04 00:00:00 +0800 | VS Code远程开发 - SSH | raw/posts/2021/2021-03-04-vscode-remote-development-ssh.md | vscode, ssh, remote-development
+- 2021-03-15 02:00:00 +0800 | 命令brew | raw/posts/2021/2021-03-15-command-brew.md | homebrew, macos, package-management
+- 2021-03-15 00:00:00 +0800 | 将所有的图片文件复制到一个目录 | raw/posts/2021/2021-03-15-copy-all-picture-files-to-a-directory.md | shell, linux, file-search
+- 2021-03-15 01:00:00 +0800 | SFTP 客户端 | raw/posts/2021/2021-03-15-sftp-client.md | sftp, ssh, file-transfer
+- 2021-03-21 00:00:00 +0800 | IoT 硬件：NeoPixel | raw/posts/2021/2021-03-21-iot-hardware-neopixel.md | neopixel, micropython, esp32
+- 2021-03-22 00:00:00 +0800 | IoT 硬件：Raspberry Pi ReSpeaker 智能语音识别双麦克风阵列 | raw/posts/2021/2021-03-22-iot-hardware-respeaker-2-mics-pi-hat.md | raspberry-pi, respeaker, microphone
+- 2021-03-23 00:00:00 +0800 | IoT 硬件：Raspberry Pi Camera | raw/posts/2021/2021-03-23-iot-hardware-raspberry-pi-camera.md | raspberry-pi, camera, iot
+- 2021-04-01 00:00:00 +0800 | 容器内幕 | raw/posts/2021/2021-04-01-inside-the-container.md | containers, linux-kernel, cgroups
+- 2021-04-06 00:00:00 +0800 | 命令yum | raw/posts/2021/2021-04-06-command-yum.md | yum, linux, centos
+- 2021-04-07 00:00:00 +0800 | 命令helm | raw/posts/2021/2021-04-07-command-helm.md | helm, kubernetes, charts
+- 2021-04-09 00:00:00 +0800 | SSH 登录欢迎信息 | raw/posts/2021/2021-04-09-ssh-login-welcome-message.md | ssh, motd, linux
+- 2021-04-10 00:00:00 +0800 | SSH X11 Forwarding | raw/posts/2021/2021-04-10-ssh-x11-forwarding.md | ssh, x11, xquartz
+- 2021-04-11 00:00:00 +0800 | 命令base64 | raw/posts/2021/2021-04-11-command-base64.md | linux, base64, encoding
+- 2021-04-12 00:00:00 +0800 | Fritzing 开源电子设计自动化软件 | raw/posts/2021/2021-04-12-fritzing.md | fritzing, circuit-design, electronics
+- 2021-04-12 01:00:00 +0800 | Thonny Python IDE | raw/posts/2021/2021-04-12-thonny-python-ide.md | thonny, micropython, python
+- 2021-04-15 00:00:00 +0800 | AI 数据集打包发布 | raw/posts/2021/2021-04-15-ai-dataset-package-release.md | ai, machine-learning, datasets
+- 2021-04-16 00:00:00 +0800 | AI 模型打包发布 | raw/posts/2021/2021-04-16-ai-model-automatic-builder.md | ai, machine-learning, docker
+- 2021-05-20 00:00:00 +0800 | Kubernetes中的GPU共享 | raw/posts/2021/2021-05-20-gpu-sharing-in-kubernetes.md | kubernetes, gpu, nvidia
+- 2021-05-24 00:00:00 +0800 | 命令man help info | raw/posts/2021/2021-05-24-command-man-help-info.md | linux, shell, bash
+- 2021-06-19 00:00:00 +0800 | Kubernetes集群证书过期 | raw/posts/2021/2021-06-19-kubernetes-cluster-certificate-has-expired.md | kubernetes, certificates, openssl
+- 2021-06-20 00:00:00 +0800 | Kubernetes中删除节点 | raw/posts/2021/2021-06-20-delete-node-in-kubernetes.md | kubernetes, kubectl, node-management
+- 2021-06-21 00:00:00 +0800 | 在Kubernetes上运行第一个应用 | raw/posts/2021/2021-06-21-run-the-first-application-on-kubernetes.md | kubernetes, docker, dockerfile
+- 2021-06-22 00:00:00 +0800 | Kubernetes API | raw/posts/2021/2021-06-22-kubernetes-api.md | kubernetes, kubectl, api
+- 2021-06-23 00:00:00 +0800 | 通过端口转发连接Pod | raw/posts/2021/2021-06-23-connect-pod-via-port-forwarding.md | kubernetes, kubectl, port-forward
+- 2021-06-24 00:00:00 +0800 | Kubernetes中的标签和标签选择器 | raw/posts/2021/2021-06-24-labels-and-label-selectors-in-kubernetes.md | kubernetes, kubectl, labels
+- 2021-06-25 00:00:00 +0800 | Kubernetes中的注解 | raw/posts/2021/2021-06-25-annotations-in-kubernetes.md | kubernetes, kubectl, annotations
+- 2021-06-26 00:00:00 +0800 | Kubernetes中的名字空间 | raw/posts/2021/2021-06-26-namespaces-in-kubernetes.md | kubernetes, namespaces, kubectl
+- 2021-06-27 00:00:00 +0800 | Kubernetes中的ReplicationController和ReplicaSet | raw/posts/2021/2021-06-27-replicationcontroller-and-replicaset-in-kubernetes.md | kubernetes, kubectl, replicationcontroller
+- 2021-06-28 00:00:00 +0800 | Kubernetes中的DaemonSet | raw/posts/2021/2021-06-28-daemonset-in-kubernetes.md | kubernetes, daemonset, workloads
+- 2021-06-29 00:00:00 +0800 | Kubernetes中的Job和CronJob | raw/posts/2021/2021-06-29-job-and-cronjob-in-kubernetes.md | kubernetes, kubectl, jobs
+- 2021-06-30 00:00:00 +0800 | 基于模板创建Job | raw/posts/2021/2021-06-30-create-a-job-based-on-a-template.md | kubernetes, kubectl, jobs
+- 2021-07-01 00:00:00 +0800 | Kubernetes中的Service | raw/posts/2021/2021-07-01-service-in-kubernetes.md | kubernetes, service, service-discovery
+- 2021-07-02 00:00:00 +0800 | Kubernetes中的污点和容忍度 | raw/posts/2021/2021-07-02-taint-and-toleration-in-kubernetes.md | kubernetes, taint, toleration
+- 2021-07-03 00:00:00 +0800 | Kubernetes中的节点亲和性和Pod亲和性 | raw/posts/2021/2021-07-03-node-affinity-and-pod-affinity-in-kubernetes.md | kubernetes, scheduling, affinity
+- 2021-07-04 00:00:00 +0800 | Kubernetes中的卷：将磁盘挂载到容器 | raw/posts/2021/2021-07-04-volume-in-kubernetes-mount-the-disk-to-the-container.md | kubernetes, volumes, storage
+- 2021-07-05 00:00:00 +0800 | ConfigMap和Secret：配置应用程序 | raw/posts/2021/2021-07-05-configmap-and-secret-configure-the-application.md | kubernetes, configmap, secret
+- 2021-07-06 00:00:00 +0800 | Kubernetes中如何恢复误删的节点 | raw/posts/2021/2021-07-06-how-to-restore-accidentally-deleted-nodes-in-kubernetes.md | kubernetes, kubectl, kubeadm
+- 2021-07-11 00:00:00 +0800 | Kubernetes API 服务器的安全防护 | raw/posts/2021/2021-07-11-security-protection-of-kubernetes-api-server.md | kubernetes, security, authentication
+- 2021-07-15 00:00:00 +0800 | 在Kubernetes上安装Ingress | raw/posts/2021/2021-07-15-install-ingress-on-kubernetes.md | kubernetes, ingress, nginx
+- 2021-07-19 00:00:00 +0800 | minikube | raw/posts/2021/2021-07-19-minikube.md | kubernetes, kubectl, docker
+- 2021-07-21 00:00:00 +0800 | Kubernetes JSONPath实践 | raw/posts/2021/2021-07-21-kubernetes-jsonpath-practice.md | kubernetes, kubectl, jsonpath
+- 2021-07-22 00:00:00 +0800 | 如何使用 Docker 打包已注册的模型 | raw/posts/2021/2021-07-22-how-to-package-a-registered-model-with-docker.md | docker, kubernetes, model-deployment
+- 2021-07-23 00:00:00 +0800 | Docker SDK for Python Examples | raw/posts/2021/2021-07-23-docker-sdk-for-python-examples.md | docker, python, sdk
+- 2021-07-27 00:00:00 +0800 | iptables | raw/posts/2021/2021-07-27-iptables.md | iptables, firewall, networking
+- 2021-07-28 00:00:00 +0800 | Docker 网络 | raw/posts/2021/2021-07-28-docker-network.md | docker, container-network, networking
+- 2021-07-29 00:00:00 +0800 | Kubernetes中的计算资源管理 | raw/posts/2021/2021-07-29-computing-resource-management-in-kubernetes.md | kubernetes, resource-management, resources
+- 2021-07-31 00:00:00 +0800 | Kubernetes的多租户 | raw/posts/2021/2021-07-31-multi-tenancy-in-kubernetes.md | kubernetes, multi-tenancy, kubesphere
+- 2021-08-02 00:00:00 +0800 | 使用 Python 临时文件模块 | raw/posts/2021/2021-08-02-using-the-python-tempfile-module.md | python, tempfile, file-io
+- 2021-08-16 00:00:00 +0800 | OpenCV Python实践 | raw/posts/2021/2021-08-16-opencv-python-practice.md | python, opencv, computer-vision
+- 2021-08-17 00:00:00 +0800 | 在 Python 中解析和修改 XML | raw/posts/2021/2021-08-17-parse-and-modify-xml-in-python.md | python, xml, elementtree
+- 2021-09-17 00:00:00 +0800 | 使用PaddleOCR进行文字识别 | raw/posts/2021/2021-09-17-paddleocr.md | python, paddleocr, paddlepaddle
+- 2021-10-22 00:00:00 +0800 | 安装Kubernetes 1.21.5 | raw/posts/2021/2021-10-22-install-kubernetes-1_21_5.md | kubernetes, kubeadm, kubectl
+- 2021-10-23 00:00:00 +0800 | 安装Kubernetes Dashboard | raw/posts/2021/2021-10-23-install-kubernetes-dashboard.md | kubernetes, dashboard, kubectl
+- 2021-11-01 00:00:00 +0800 | 远程执行Shell命令 | raw/posts/2021/2021-11-01-remote-execute-shell-command.md | fabric, ssh, remote-execution
+- 2021-11-23 00:00:00 +0800 | 命令lftp | raw/posts/2021/2021-11-23-command-lftp.md | linux, ftp, lftp
+- 2021-12-01 00:00:00 +0800 | Kubernetes中配置调度器 | raw/posts/2021/2021-12-01-configure-the-scheduling-strategy-of-the-scheduler-in-kubernetes.md | kubernetes, scheduler, scheduling
+- 2022-01-04 00:00:00 +0800 | Linux下查看img文件内容 | raw/posts/2022/2022-01-04-view-the-contents-of-the-img-file-under-linux.md | fdisk, mount, filesystem
+- 2022-01-12 00:00:00 +0800 | 编译寒武纪MLU220的嵌入式操作系统 | raw/posts/2022/2022-01-12-compile-the-embedded-operating-system-of-cambrian-mlu220.md | cambricon, buildroot, git
+- 2022-01-13 00:00:00 +0800 | 使用终端浏览Markdown和HTML | raw/posts/2022/2022-01-13-browse-markdown-and-html-with-terminal.md | markdown, html, terminal
+- 2022-01-24 00:00:00 +0800 | 安装Go | raw/posts/2022/2022-01-24-install-go.md | go, installation, proxy
+- 2022-01-28 00:00:00 +0800 | GaiaGPU: 在容器云中共享GPU | raw/posts/2022/2022-01-28-gaiagpu-sharing-gpus-in-container-clouds.md | gpu-sharing, kubernetes, gpu
+- 2022-02-08 00:00:00 +0800 | 在Linux上安装CUDA Toolkit | raw/posts/2022/2022-02-08-install-cuda-toolkit-on-linux.md | linux, cuda, nvidia
+- 2022-02-09 00:00:00 +0800 | 构建基于 ONNXRuntime 的推理服务 | raw/posts/2022/2022-02-09-build-an-onnxruntime-based-inference-serving.md | onnxruntime, onnx, gpu
+- 2022-02-10 00:00:00 +0800 | 逻辑卷管理(Logical Volume Management) | raw/posts/2022/2022-02-10-logical-volume-management.md | lvm, linux, filesystem
+- 2022-02-18 00:00:00 +0800 | OpenResty 内执行 Lua 脚本 | raw/posts/2022/2022-02-18-execute-lua-scripts-in-openresty.md | openresty, nginx, lua
+- 2022-02-22 00:00:00 +0800 | 命令tr | raw/posts/2022/2022-02-22-command-tr.md | tr, linux, command-line
+- 2022-02-23 00:00:00 +0800 | Json Formatter | raw/posts/2022/2022-02-23-json-formatter.md | json, jq, python
+- 2022-03-01 00:00:00 +0800 | MinIO Quickstart | raw/posts/2022/2022-03-01-minio-quickstart.md | minio, storage, s3
+- 2022-03-12 00:00:00 +0800 | 我删库了, rm -rf * | raw/posts/2022/2022-03-12-deep-lesson-rm.md | linux, rm, data-recovery
+- 2022-03-17 00:00:00 +0800 | 构建基于PaddlePaddle开发服务镜像 | raw/posts/2022/2022-03-17-build-a-development-service-image-based-on-paddlepaddle.md | paddlepaddle, docker, dockerfile
+- 2022-03-18 00:00:00 +0800 | Dockerfile 实践 | raw/posts/2022/2022-03-18-dockerfile-practice.md | docker, dockerfile, python
+- 2022-03-19 00:00:00 +0800 | Python办公自动化套件 | raw/posts/2022/2022-03-19-python-office-automation-suite.md | python, automation, office-automation
+- 2022-03-20 00:00:00 +0800 | Python 自动生成周报 | raw/posts/2022/2022-03-20-python-automatically-generates-weekly-reports.md | python, automation, excel
+- 2022-03-21 00:00:00 +0800 | 阿里云 yum 安装应用报 404 错误 | raw/posts/2022/2022-03-21-aliyun-centos-yum-install-error-404.md | aliyun, centos, yum
+- 2022-03-21 08:00:00 +0800 | HTTP 基准测试工具 | raw/posts/2022/2022-03-21-http-benchmarking-tools.md | wrk, ab, http
+- 2022-03-25 00:00:00 +0800 | 基于健康码识别的 FastAPI 同步和异步函数的基准测试 | raw/posts/2022/2022-03-25-benchmarking-of-fastapi-synchronous-and-asynchronous-functions-based-on-health-code-recognition.md | fastapi, uvicorn, gunicorn
+- 2022-03-26 00:00:00 +0800 | 命令 nc | raw/posts/2022/2022-03-26-command-nc.md | nc, netcat, command-line
+- 2022-03-27 00:00:00 +0800 | 阿里云服务器 ECS 开放端口 | raw/posts/2022/2022-03-27-alibaba-cloud-server-ecs-open-ports.md | aliyun, uvicorn, gunicorn
+- 2022-03-31 08:00:00 +0800 | FastAPI 上传和下载文件的基准测试 | raw/posts/2022/2022-03-31-fastapi-benchmarking-for-upload-and-download-files.md | fastapi, uvicorn, gunicorn
+- 2022-03-31 00:00:00 +0800 | Install Python3.9 in Ubuntu20.04 | raw/posts/2022/2022-03-31-install-python3.9-in-ubuntu20.04.md | ubuntu, python3.9, pip
+- 2022-04-04 00:00:00 +0800 | Linux 性能优化 | raw/posts/2022/2022-04-04-linux-performance-optimization.md | linux, performance, sysadmin
+- 2022-04-11 08:00:00 +0800 | 使用 wrk 对 FastAPI 上传和下载文件的基准测试 | raw/posts/2022/2022-04-11-benchmarking-fastapi-upload-and-download-files-using-wrk.md | fastapi, uvicorn, wrk
+- 2022-04-12 08:00:00 +0800 | 使用 FastAPI 开发 RESTAPI 服务 | raw/posts/2022/2022-04-12-develop-restapi-services-with-fastapi.md | fastapi, rest, api
+- 2022-04-13 08:00:00 +0800 | Get Started OpenVINO | raw/posts/2022/2022-04-13-get-started-openvino.md | openvino, installation, python
+- 2022-04-13 10:00:00 +0800 | OpenVINO 的工作原理 | raw/posts/2022/2022-04-13-how-openvino-works.md | openvino, model-optimization, model-conversion
+- 2022-04-14 08:00:00 +0800 | Open Model Zoo | raw/posts/2022/2022-04-14-open-model-zoo.md | openvino, open-model-zoo, model-zoo
+- 2022-04-15 08:00:00 +0800 | OpenVINO 图像分类 | raw/posts/2022/2022-04-15-openvino-image-classification.md | openvino, image-classification, 图像分类
+- 2022-04-16 08:00:00 +0800 | OpenVINO 目标检测 | raw/posts/2022/2022-04-16-openvino-object-detection.md | openvino, object-detection, 目标检测
+- 2022-04-17 08:00:00 +0800 | OpenVINO 神经网络性能分析 | raw/posts/2022/2022-04-17-openvino-neural-network-performance-profiling.md | openvino, profiling, performance
+- 2022-05-01 08:00:00 +0800 | Get Started YOLOv5 | raw/posts/2022/2022-05-01-get-started-yolov5.md | yolov5, yolo, object-detection
+- 2022-05-02 08:00:00 +0800 | NVIDIA 软件栈搭建 | raw/posts/2022/2022-05-02-nvidia-software-stack-build.md | nvidia, cuda, cudnn
+- 2022-05-03 08:00:00 +0800 | Ubuntu 上将 NVIDIA GPU 切换为 Intel 集成显卡 IGD | raw/posts/2022/2022-05-03-switch-nvidia-gpu-to-intel-integrated-graphics-idg-on-ubuntu.md | ubuntu, gpu, nvidia
+- 2022-05-17 08:00:00 +0800 | Deep Learning Accuracy Validation Framework | raw/posts/2022/2022-05-17-deep-learning-accuracy-validation-framework.md | openvino, accuracy-checker, validation
+- 2022-05-18 08:00:00 +0800 | OpenVINO Cross Check Tool | raw/posts/2022/2022-05-18-openvino-cross-check-tool.md | openvino, cross-check-tool, benchmarking
+- 2022-05-19 08:00:00 +0800 | OpenVINO Benchmark Python Tool | raw/posts/2022/2022-05-19-openvino-benchmark-python-tool.md | openvino, benchmark_app, performance
+- 2022-05-25 00:00:00 +0800 | 命令curl | raw/posts/2022/2022-05-25-command-curl.md | curl, command-line, download
+- 2022-05-26 00:00:00 +0800 | 命令open | raw/posts/2022/2022-05-26-command-open.md | macos, command-line, browsers
+- 2022-06-07 00:00:00 +0800 | 在 PyTorch 中融合卷积和批量标准化 | raw/posts/2022/2022-06-07-fusing-convolution-and-batch-normalization-in-pytorch.md | pytorch, convolution, batchnorm
+- 2022-06-09 00:00:00 +0800 | ONNX Simplifier | raw/posts/2022/2022-06-09-onnx-simplifier.md | onnx, onnxsim, model-optimization
+- 2022-06-23 00:00:00 +0800 | 面向边缘场景的 AI 芯片 | raw/posts/2022/2022-06-23-ai-chips-for-edge-scenarios.md | edge-computing, ai-chips, jetson
+- 2022-06-29 00:00:00 +0800 | Install TVM from Source | raw/posts/2022/2022-06-29-install-tvm-from-source.md | tvm, llvm, cuda
+- 2022-06-29 00:00:00 +0800 | TVM | raw/posts/2022/2022-06-29-tvm.md | tvm, deep-learning-compiler, onnx
+- 2022-07-13 00:00:00 +0800 | 使用 Python 自动进行工作量估算 | raw/posts/2022/2022-07-13-workload-evaluation-using-python.md | python, automation, excel
+- 2022-07-21 00:00:00 +0800 | 百度 EasyEdge 端与边缘 AI 服务平台 | raw/posts/2022/2022-07-21-easyedge.md | easyedge, baidu, paddle-lite
+- 2022-07-25 00:00:00 +0800 | 边缘硬件 | raw/posts/2022/2022-07-25-edge-hardware.md | edge-hardware, hardware, movidius
+- 2022-08-16 08:00:00 +0800 | OpenVINO Deep Learning Workbench | raw/posts/2022/2022-08-16-openvino-dl-workbench.md | openvino, openvino-workbench, docker
+- 2022-11-16 08:00:00 +0800 | 学习【机器学习平台】建设的经验 | raw/posts/2022/2022-11-16-ai-platform.md | machine-learning, deep-learning, ml-platform
+- 2023-01-03 08:00:00 +0800 | 安装Kubernetes 1.26.0 | raw/posts/2023/2023-01-03-install-kubernetes-1_26_0.md | kubernetes, kubeadm, containerd
+- 2023-02-07 08:00:00 +0800 | 在 MacBook Pro M2 Max 上构建开发环境 | raw/posts/2023/2023-02-07-build-a-development-environment-on-macbook-pro-m2-max.md | macos, macbookpro, homebrew
+- 2023-02-07 10:00:00 +0800 | 在 MacBook Pro M2 Max 上安装软件 | raw/posts/2023/2023-02-07-install-software-on-macbook-pro-m2-max.md | macos, macbookpro, homebrew
+- 2023-02-08 08:00:00 +0800 | 在 MacBook Pro M2 Max 上安装 TensorFlow | raw/posts/2023/2023-02-08-install-tensorflow-on-macbook-pro-m2-max.md | tensorflow, macos, macbookpro
+- 2023-02-09 08:00:00 +0800 | 在 MacBook Pro M2 Max 上安装 PyTorch | raw/posts/2023/2023-02-09-install-pytorch-on-macbook-pro-m2-max.md | pytorch, macos, macbookpro
+- 2023-02-10 08:00:00 +0800 | OpenWrt | raw/posts/2023/2023-02-10-openwrt.md | openwrt, lede, 路由器
+- 2023-02-13 08:00:00 +0800 | ChatGPT 快速入门 | raw/posts/2023/2023-02-13-chatgpt.md | chatgpt, openai, gpt
+- 2023-02-14 08:00:00 +0800 | 在 MacBook Pro M2 Max 上安装 OpenVINO | raw/posts/2023/2023-02-14-install-openvino-on-macbook-pro-m2-max.md | openvino, macos, macbookpro
+- 2023-02-25 08:00:00 +0800 | macOS 上删除登录项中允许在后台的项目 | raw/posts/2023/2023-02-25-macos-universal-login-item-allow-in-background.md | macos, launchd, finder
+- 2023-03-04 08:00:00 +0800 | 在 MacBook Pro M2 Max 上使用 FFmpeg | raw/posts/2023/2023-03-04-use-ffmpeg-on-macbook-pro-m2-max.md | ffmpeg, macos, macbookpro
+- 2023-03-05 00:00:00 +0800 | 通过命令使用 ChatGPT | raw/posts/2023/2023-03-05-command-chatgpt.md | chatgpt, cli, python
+- 2023-03-07 00:00:00 +0800 | 在 CentOS 上安装 EPEL 软件仓库 | raw/posts/2023/2023-03-07-install-epel-repository-on-centos.md | epel, centos, yum
+- 2023-03-11 08:00:00 +0800 | 在 MacBook Pro M2 Max 上测试 Whisper | raw/posts/2023/2023-03-11-test-whisper-on-macbook-pro-m2-max.md | whisper, openai, speech-to-text
+- 2023-03-15 08:00:00 +0800 | 在 MacBook Pro M2 Max 上测试 LLaMA | raw/posts/2023/2023-03-15-test-llama-on-macbook-pro-m2-max.md | llama, llama-cpp, gguf
+- 2023-03-24 08:00:00 +0800 | Ultralytics YOLOv8 | raw/posts/2023/2023-03-24-ultralytics-yolov8.md | yolov8, ultralytics, object-detection
+- 2023-03-27 08:00:00 +0800 | Roboflow 快速入门 | raw/posts/2023/2023-03-27-roboflow-quick-start.md | roboflow, object-detection, computer-vision
+- 2023-03-30 08:00:00 +0800 | Ultralytics Hub 快速入门 | raw/posts/2023/2023-03-30-ultralytics-hub-quick-start.md | quickstart, yolo, dataset
+- 2023-04-01 08:00:00 +0800 | GitHub Copilot - Your AI pair programmer | raw/posts/2023/2023-04-01-github-copilot-your-ai-pair-programmer.md | github-copilot, vscode, neovim
+- 2023-04-02 08:00:00 +0800 | Python in Visual Studio Code | raw/posts/2023/2023-04-02-python-in-visual-studio-code.md | python, vscode, jupyter
+- 2023-04-04 08:00:00 +0800 | 人工智能服务 REST API 响应的 JSON 格式 | raw/posts/2023/2023-04-04-json-format-of-ai-service-rest-api-response.md | ai, json, api
+- 2023-04-10 08:00:00 +0800 | 基于 FastAPI 开发 Ultralytics Serving | raw/posts/2023/2023-04-10-developing-ultralytics-serving-based-on-fastapi.md | fastapi, yolo, docker
+- 2023-04-11 00:00:00 +0800 | 命令 alias | raw/posts/2023/2023-04-11-command-alias.md | shell, zsh, bash
+- 2023-04-13 08:00:00 +0800 | 在 MacBook Pro M2 Max 上测试 ChatGLM-6B | raw/posts/2023/2023-04-13-test-chatglm6b-on-macbook-pro-m2-max.md | chatglm, glm, chatgpt
+- 2023-04-14 08:00:00 +0800 | AutoGPT | raw/posts/2023/2023-04-14-autogpt.md | autogpt, gpt, openai
+- 2023-04-18 08:00:00 +0800 | 文心一言测试 | raw/posts/2023/2023-04-18-test-ernie-bot.md | ernie-bot, chatgpt, baidu
+- 2023-04-22 08:00:00 +0800 | Large Language Models（大语言模型） | raw/posts/2023/2023-04-22-large-language-models.md | llms, chatgpt, chatglm
+- 2023-04-22 08:00:00 +0800 | ChatGLM-6B 模型基于 P-Tuning v2 微调的自定义数据集 | raw/posts/2023/2023-04-23-chatglm6b-model-based-on-ptuning-v2-fine-tuning-of-electrical-safety-work-procedures.md | chatglm, fine-tuning, p-tuning-v2
+- 2023-04-24 08:00:00 +0800 | OpenAI API Documentation 快速入门 | raw/posts/2023/2023-04-24-openai-api-doc-quickstart.md | openai, jupyter, pandas
+- 2023-04-25 08:00:00 +0800 | OpenAI API Documentation Embeddings | raw/posts/2023/2023-04-25-openai-api-doc-embeddings.md | openai, embeddings, faiss
+- 2023-04-28 08:00:00 +0800 | OpenAI API Documentation Chat Completion | raw/posts/2023/2023-04-28-openai-api-doc-chat-completion.md | openai, chatgpt, gpt
+- 2023-04-29 08:00:00 +0800 | 在 Hugging Face 上搭建 ChatGPT 聊天机器人 | raw/posts/2023/2023-04-29-build-chatgpt-chatbot-on-huggingface.md | chatgpt, hugging-face, docker
+- 2023-04-30 08:00:00 +0800 | Hugging Face 快速入门 | raw/posts/2023/2023-04-30-huggingface-quickstart.md | hugging-face, transformers, model-deployment
+- 2023-05-03 10:00:00 +0800 | LangChain - Chain | raw/posts/2023/2023-05-03-langchain-chain.md | langchain, llm, python
+- 2023-05-03 08:00:00 +0800 | LangChain 快速入门 | raw/posts/2023/2023-05-03-langchain-quickstart.md | langchain, llm, python
+- 2023-05-05 10:00:00 +0800 | OpenAI API Documentation Speech to Text | raw/posts/2023/2023-05-05-openai-api-doc-speech-to-text.md | openai, whisper, speech-to-text
+- 2023-05-05 08:00:00 +0800 | PaddleSpeech 快速入门 | raw/posts/2023/2023-05-05-paddlespeech-quickstart.md | paddlespeech, paddlepaddle, audio
+- 2023-05-06 08:00:00 +0800 | 讯飞星火测试 | raw/posts/2023/2023-05-06-spark-desk.md | spark-desk, 讯飞星火, ai
+- 2023-05-11 08:00:00 +0800 | Python 配置共享软件包缓存 | raw/posts/2023/2023-05-11-python-configuring-a-shared-package-cache.md | python, conda, pip
+- 2023-05-12 10:00:00 +0800 | 加速 Docker 构建镜像 | raw/posts/2023/2023-05-12-speed-up-docker-build-images.md | docker, buildx, buildkit
+- 2023-05-13 08:00:00 +0800 | 构建容器化 Python 应用程序 | raw/posts/2023/2023-05-13-build-containerize-python-application.md | docker, containerization, python
+- 2023-05-15 08:00:00 +0800 | macOS 下的 __MACOSX 目录和 .DS_Store 文件 | raw/posts/2023/2023-05-15-macos-ds_store.md | macos, find, shell
+- 2023-05-16 08:00:00 +0800 | Ultralytics YOLOv8 推理速度对比 | raw/posts/2023/2023-05-16-ultralytics-yolov8-inference-speed-comparison.md | yolo, yolov8, pytorch
+- 2023-05-18 08:00:00 +0800 | macOS Docker | raw/posts/2023/2023-05-18-macos-docker.md | macos, docker, troubleshooting
+- 2023-05-21 08:00:00 +0800 | Docker 构建多平台镜像 | raw/posts/2023/2023-05-21-docker-building-multi-platform-images.md | docker, buildx, multi-platform
+- 2023-05-22 08:00:00 +0800 | Stable Diffusion | raw/posts/2023/2023-05-22-stable-diffusion.md | stable-diffusion, clip, laion
+- 2023-05-26 08:00:00 +0800 | Whisper 语音识别 | raw/posts/2023/2023-05-26-whisper-speech-recognition.md | whisper, openai, audio
+- 2023-05-28 08:00:00 +0800 | ChatGPT Prompt Engineering for Developers | raw/posts/2023/2023-05-28-chatgpt-prompt-engineering-for-developers.md | chatgpt, prompt-engineering, openai
+- 2023-05-29 08:00:00 +0800 | OpenAI Fine Tuning | raw/posts/2023/2023-05-29-openai-fine-tuning.md | fine-tuning, openai, llm
+- 2023-05-30 08:00:00 +0800 | State of GPT - Andrej Karpathy | raw/posts/2023/2023-05-30-state-of-gpt.md | llm, gpt, fine-tuning
+- 2023-06-09 08:00:00 +0800 | LangChain for LLM Application Development | raw/posts/2023/2023-06-09-langchain-for-llm-application-development.md | langchain, llm, chatgpt
+- 2023-06-13 08:00:00 +0800 | Building Systems with the ChatGPT API | raw/posts/2023/2023-06-13-building-systems-with-the-chatgpt-api.md | chatgpt, openai, api
+- 2023-06-14 08:00:00 +0800 | How Diffusion Models Work | raw/posts/2023/2023-06-14-how-diffusion-models-work.md | diffusion-models, ddpm, stable-diffusion
+- 2023-07-03 08:00:00 +0800 | 使用 StorageClass 动态创建 NFS 持久卷 | raw/posts/2023/2023-07-03-dynamically-create-nfs-persistent-volumes-using-storageclass.md | kubernetes, nfs, storageclass
+- 2023-07-06 08:00:00 +0800 | Elastic Cloud on Kubernetes 快速入门 | raw/posts/2023/2023-07-06-elastic-cloud-on-kubernetes-quickstart.md | elasticsearch, kibana, filebeat
+- 2023-07-11 08:00:00 +0800 | 使用 Prometheus Operator 在 Kubernetes 上部署 Prometheus 和 Grafana | raw/posts/2023/2023-07-11-deploy-prometheus-and-grafana-on-kubernetes-with-the-prometheus-operator.md | prometheus, grafana, kubernetes
+- 2023-07-13 08:00:00 +0800 | 在 Kubernetes 上部署 MySQL | raw/posts/2023/2023-07-13-deploy-mysql-on-kubernetes.md | kubernetes, mysql, statefulset
+- 2023-07-18 08:00:00 +0800 | 在 MacBook Pro M2 Max 上测试 ChatGLM2-6B | raw/posts/2023/2023-07-18-test-chatglm26b-on-macbook-pro-m2-max.md | chatglm, glm, macos
+- 2023-07-21 08:00:00 +0800 | Velero: 备份和迁移 Kubernetes 资源和持久卷 | raw/posts/2023/2023-07-21-velero-backup-and-migrate-kubernetes-resources-and-persistent-volumes.md | kubernetes, backups, velero
+- 2023-07-24 08:00:00 +0800 | AI 大模型 | raw/posts/2023/2023-07-24-principle-of-chatgpt.md | llm, gpt, chatgpt
+- 2023-08-08 08:00:00 +0800 | MinIO for Kubernetes | raw/posts/2023/2023-08-08-minio-for-kubernetes.md | minio, kubernetes, object-storage
+- 2023-09-02 08:00:00 +0800 | Private GPT | raw/posts/2023/2023-09-02-private-gpt.md | privategpt, rag, vector-search
+- 2023-09-09 08:00:00 +0800 | LLM Leaderboard | raw/posts/2023/2023-09-09-llm-leaderboard.md | llm, benchmarks, embeddings
+- 2023-09-12 08:00:00 +0800 | 部署 LLM | raw/posts/2023/2023-09-12-deploy-llm.md | llm, model-deployment, inference-serving
+- 2023-09-18 08:00:00 +0800 | macOS 能连上 WiFi 但无法上网 | raw/posts/2023/2023-09-18-macos-can-connect-to-wifi-but-cannot-access-the-internet.md | macos, macbookpro, wifi
+- 2023-09-29 08:00:00 +0800 | FastAPI : Request File and Form(BaseModel) | raw/posts/2023/2023-09-29-request-file-and-form(basemodel).md | fastapi, pydantic, python
+- 2023-10-04 08:00:00 +0800 | FastAPI 开发 RESTAPI 实践 | raw/posts/2023/2023-10-04-fastapi-development-restapi-practice.md | fastapi, python, rest
+- 2023-10-09 08:00:00 +0800 | 开源 OCR 引擎基准测试 | raw/posts/2023/2023-10-09-open-source-ocr-engine-benchmark.md | ocr, computer-vision, easyocr
+- 2023-10-11 08:00:00 +0800 | Dockerfile 中 ARG 指令的作用范围 | raw/posts/2023/2023-10-11-the-scope-of-the-arg-directive-in-dockerfile.md | docker, dockerfile, build-args
+- 2023-10-13 08:00:00 +0800 | 将 API 密钥身份验证添加到 FastAPI 应用程序 | raw/posts/2023/2023-10-13-adding-api-key-authentication-to-a-fastapi-application.md | fastapi, authentication, api-keys
+- 2023-10-16 08:00:00 +0800 | Private GPT 中文 Embeddings 模型测试 | raw/posts/2023/2023-10-16-private-gpt-chinese-embeddings-model-test.md | rag, embeddings, llm
+- 2023-10-22 08:00:00 +0800 | LangChain HuggingFaceEmbeddings + FAISS | raw/posts/2023/2023-10-22-langchain-huggingfaceembeddings-faiss.md | langchain, embeddings, hugging-face
+- 2023-10-24 08:00:00 +0800 | FastChat 部署多模型 | raw/posts/2023/2023-10-24-fastchat-deploys-multi-model.md | fastchat, llm, model-deployment
+- 2023-11-09 08:00:00 +0800 | Transformers Pipeline | raw/posts/2023/2023-11-09-transformers-pipeline.md | transformers, pipeline, inference
+- 2023-11-19 08:00:00 +0800 | GPU 服务器不能访问 | raw/posts/2023/2023-11-19-the-gpu-server-cannot-accessed.md | linux, networking, troubleshooting
+- 2023-11-20 08:00:00 +0800 | NGINX Reverse Proxy 反向代理 | raw/posts/2023/2023-11-20-nginx-reverse-proxy.md | nginx, reverse-proxy, load-balancing
+- 2023-11-25 08:00:00 +0800 | 2023 年全国行业职业技能竞赛 | raw/posts/2023/2023-11-25-2023-race.md | speech-to-text, text-to-speech, nlp
+- 2023-12-01 08:00:00 +0800 | 在 Mac 上安装 NGINX | raw/posts/2023/2023-12-01-install-nginx-on-mac.md | nginx, macos, macbookpro
+- 2023-12-03 08:00:00 +0800 | GPT4All | raw/posts/2023/2023-12-03-gpt4all.md | gpt4all, local-llms, rag
+- 2023-12-06 08:00:00 +0800 | 基于 ChatGLM3 8k 和 32k 的文档问答对比 | raw/posts/2023/2023-12-06-comparison-of-document-qa-based-on-chatglm3-8k-and-32k.md | chatglm3, chatglm3-6b-32k, bge-base-zh
+- 2023-12-09 08:00:00 +0800 | SeamlessM4T — Massively Multilingual & Multimodal Machine Translation（大规模多语言和多模式机器翻译） | raw/posts/2023/2023-12-09-SeamlessM4T.md | seamlessm4t, speech-recognition, text-to-speech
+- 2023-12-12 08:00:00 +0800 | TensorRT-LLM 大模型推理 | raw/posts/2023/2023-12-12-TensorRT-LLM-Inference.md | tensorrt-llm, triton-inference-server, chatglm
+- 2023-12-16 08:00:00 +0800 | 使用 llama.cpp 构建本地聊天服务 | raw/posts/2023/2023-12-16-building-a-local-chat-service-using-llama-cpp.md | llama-cpp, openai, llama
+- 2023-12-17 08:00:00 +0800 | Copilot for CLI | raw/posts/2023/2023-12-17-copilot-for-cli.md | github-copilot, github, cli
+- 2023-12-18 08:00:00 +0800 | 使用 Ollama 构建本地聊天服务 | raw/posts/2023/2023-12-18-building-a-local-chat-service-using-ollama.md | ollama, local-llms, docker
+- 2023-12-19 08:00:00 +0800 | Text Generation Inference | raw/posts/2023/2023-12-19-Text-Generation-Inference.md | text-generation-inference, hugging-face, inference-serving
+- 2023-12-20 08:00:00 +0800 | SDXL Turbo | raw/posts/2023/2023-12-20-Stability-AI-SDXL-Turbo.md | sdxl-turbo, stable-diffusion, text-to-image
+- 2023-12-20 10:00:00 +0800 | Microsoft Phi-2 | raw/posts/2023/2023-12-20-microsoft-phi-2.md | phi-2, llm, hugging-face
+- 2023-12-21 08:00:00 +0800 | MLX: An array framework for Apple silicon | raw/posts/2023/2023-12-21-Apple-Silicon-MLX.md | mlx, phi-2, qwen
+- 2023-12-24 08:00:00 +0800 | MLX LLMS Examples | raw/posts/2023/2023-12-24-Apple-Silicon-MLX-LLMS-Examples.md | mlx, phi-2, qwen
+- 2023-12-25 08:00:00 +0800 | Qwen (通义千问) | raw/posts/2023/2023-12-25-Qwen.md | qwen, fastchat, openai
+- 2023-12-26 08:00:00 +0800 | whisper.cpp | raw/posts/2023/2023-12-26-whisper-cpp.md | whisper, whisper-cpp, speech-to-text
+- 2023-12-28 08:00:00 +0800 | Langchain‐Chatchat 和 FastChat 结合 | raw/posts/2023/2023-12-28-Langchain‐Chatchat-and-FastChat.md | langchain-chatchat, fastchat, openai
+- 2024-01-01 10:00:00 +0800 | AI 大模型基础服务架构图 | raw/posts/2024/2024-01-01-AI-LLM-Architecture.md | llm, code-llm, 大模型基础服务
+- 2024-01-01 08:00:00 +0800 | AI 大模型 | raw/posts/2024/2024-01-01-AI-Large-Model.md | llm, slm, code-llm
+- 2024-01-02 08:00:00 +0800 | CodeFuse | raw/posts/2024/2024-01-02-CodeFuse.md | codefuse, code-llm, ai-coding-assistant
+- 2024-01-03 08:00:00 +0800 | CodeGPT: 智能辅助编程 | raw/posts/2024/2024-01-03-CodeGPT-Intelligent-Assisted-Programming.md | codegpt, intellij-idea, gguf
+- 2024-01-04 08:00:00 +0800 | DeepSeek Coder: Let the Code Write Itself | raw/posts/2024/2024-01-04-DeepSeek-Coder-Let-the-Code-Write-Itself.md | deepseek-coder, code-llm, leaderboard
+- 2024-01-05 08:00:00 +0800 | PrivateGPT | raw/posts/2024/2024-01-05-PrivateGPT.md | privategpt, python, poetry
+- 2024-01-05 10:00:00 +0800 | Tabby - GitHub Copilot 的开源替代解决方案 | raw/posts/2024/2024-01-05-Tabby-An-open-source-alternative-to-GitHub-Copilot.md | tabby, github-copilot, code-llm
+- 2024-01-08 08:00:00 +0800 | NVIDIA Driver 安装 | raw/posts/2024/2024-01-08-NVIDIA-Driver-Installation.md | nvidia-driver, cuda, gpu
+- 2024-01-09 08:00:00 +0800 | 基于 PyCharm 使用 Tabby 和 CodeGPT 插件搭建免费的 GitHub Copilot | raw/posts/2024/2024-01-09-Build-free-GitHub-Copilot-based-on-PyCharm-using-Tabby-and-CodeGPT-plug-ins.md | github-copilot, pycharm, tabby
+- 2024-01-10 08:00:00 +0800 | 基于 IntelliJ IDEA 使用 Tabby 和 CodeGPT 插件搭建免费的 GitHub Copilot | raw/posts/2024/2024-01-10-Build-free-GitHub-Copilot-based-on-IntelliJ-IDEA-using-Tabby-and-CodeGPT-plug-ins.md | github-copilot, intellij-idea, tabby
+- 2024-01-10 10:00:00 +0800 | 基于 VSCode 使用 Tabby 插件搭建免费的 GitHub Copilot | raw/posts/2024/2024-01-10-Build-free-GitHub-Copilot-based-on-VSCode-using-Tabby-plug-ins.md | github-copilot, vscode, tabby
+- 2024-01-10 12:00:00 +0800 | 在 GeForce GTX 1060 上部署 Tabby - AI编码助手 | raw/posts/2024/2024-01-10-Deploying-Tabby-AI-Coding-Assistant-on-GeForce-GTX-1060.md | tabby, ai-coding-assistant, code-llm
+- 2024-01-11 08:00:00 +0800 | 在 MacBook Pro M2 Max 上安装 FastChat | raw/posts/2024/2024-01-11-Install-FastChat-on-MacBook-Pro-M2-Max.md | fastchat, qwen, deepseek
+- 2024-01-13 08:00:00 +0800 | 人工智能编码助手（AI Coding Assistant）功能 | raw/posts/2024/2024-01-13-AI-Coding-Assistant-Function.md | ai-coding-assistant, code-llm, code-completion
+- 2024-01-14 08:00:00 +0800 | Sourcegraph Cody | raw/posts/2024/2024-01-14-Sourcegraph-Cody.md | sourcegraph, cody, ai-coding-assistant
+- 2024-01-15 08:00:00 +0800 | 人工智能编码助手（AI Coding Assistant） | raw/posts/2024/2024-01-15-AI-Coding-Assistant.md | ai-coding-assistant, code-completion, code-generation
+- 2024-01-15 10:00:00 +0800 | Tabby 的基准测试 | raw/posts/2024/2024-01-15-Tabby-benchmarking.md | tabby, benchmark, wrk
+- 2024-01-16 08:00:00 +0800 | 使用 FastChat 在 CUDA 上部署 LLM | raw/posts/2024/2024-01-16-Using-FastChat-to-Deploy-LLM-on-CUDA.md | fastchat, vllm, cuda
+- 2024-01-17 08:00:00 +0800 | LLM 的基准测试 | raw/posts/2024/2024-01-17-LLM-benchmarking.md | llm, benchmarking, 测速
+- 2024-01-18 08:00:00 +0800 | git 配置代理 | raw/posts/2024/2024-01-18-git-config-proxy.md | git, proxy, github
+- 2024-01-19 08:00:00 +0800 | 使用 llama.cpp 构建兼容 OpenAI API 服务 | raw/posts/2024/2024-01-19-use-lama-cpp-to-build-compatible-openai-services.md | llama.cpp, llama-cpp-python, quantization
+- 2024-01-22 08:00:00 +0800 | UnitMesh: AI 赋能软件研发全流程 | raw/posts/2024/2024-01-22-Exploring-NextGen-Software-Generative-Architectural-Paradigms-with-GenAI.md | unitmesh, autodev, chocolate-factory
+- 2024-01-23 08:00:00 +0800 | 在 MLX 上使用 LoRA / QLoRA 微调 Text2SQL（一）：使用 LoRA 基于 Mistral-7B 微调 | raw/posts/2024/2024-01-23-Fine-tuning-Text2SQL-based-on-Mistral-7B-using-LoRA-on-MLX-1.md | mlx, lora, mistral-7b
+- 2024-01-24 08:00:00 +0800 | 在 MLX 上使用 LoRA / QLoRA 微调 Text2SQL（二）：使用 LoRA 基于 Mistral-7B 微调 | raw/posts/2024/2024-01-24-Fine-tuning-Text2SQL-based-on-Mistral-7B-using-LoRA-on-MLX-2.md | mlx, lora, mistral-7b
+- 2024-01-24 12:00:00 +0800 | 在 MLX 上使用 LoRA / QLoRA 微调 Text2SQL（三）：分享微调后的模型到 HuggingFace Hub | raw/posts/2024/2024-01-24-Fine-tuning-Text2SQL-based-on-Mistral-7B-using-LoRA-on-MLX-3.md | mlx, lora, mistral-7b
+- 2024-01-25 08:00:00 +0800 | 在 MLX 上使用 LoRA / QLoRA 微调 Text2SQL（四）：使用 QLoRA 基于 Mistral-7B 微调 | raw/posts/2024/2024-01-25-Fine-tuning-Text2SQL-based-on-Mistral-7B-using-LoRA-on-MLX-4.md | mlx, qlora, mistral-7b
+- 2024-01-26 08:00:00 +0800 | 在 MLX 上使用 LoRA / QLoRA 微调 Text2SQL（五）：对比使用 LoRA 和 QLoRA 基于 Mistral-7B 微调的效果 | raw/posts/2024/2024-01-26-Fine-tuning-Text2SQL-based-on-Mistral-7B-using-LoRA-on-MLX-5.md | mlx, lora, qlora
+- 2024-01-27 08:00:00 +0800 | 在 MLX 上使用 LoRA / QLoRA 微调 Text2SQL（六）：使用 LoRA 基于 Deepseek-Coder-7B 微调 | raw/posts/2024/2024-01-27-Fine-tuning-Text2SQL-based-on-Mistral-7B-using-LoRA-on-MLX-6.md | mlx, lora, deepseek-coder-7b
+- 2024-01-28 08:00:00 +0800 | 在 MLX 上使用 LoRA / QLoRA 微调 Text2SQL（七）：MLX 微调的模型转换为 GGUF 模型 | raw/posts/2024/2024-01-28-Fine-tuning-Text2SQL-based-on-Mistral-7B-using-LoRA-on-MLX-7.md | mlx, lora, mistral-7b
+- 2024-01-31 08:00:00 +0800 | 在 MLX 上使用 LoRA / QLoRA 微调 Text2SQL（八）：使用 LoRA 基于 TinyLlama 微调 | raw/posts/2024/2024-01-31-Fine-tuning-Text2SQL-based-on-Mistral-7B-using-LoRA-on-MLX-8.md | mlx, lora, tinyllama
+- 2024-02-15 08:00:00 +0800 | Hugging Face NLP Course | raw/posts/2024/2024-02-15-Hugging-Face-NLP-Course.md | huggingface, nlp, transformers
+- 2024-02-29 08:00:00 +0800 | DeepSeek-Coder 论文解读 | raw/posts/2024/2024-02-29-DeepSeek-Coder-Paper-Interpretation.md | deepseek-coder, code-llm, paper-interpretation
+- 2024-03-04 08:00:00 +0800 | Microsoft Copilot | raw/posts/2024/2024-03-04-Microsoft-Copilot.md | microsoft, copilot, copilot-studio
+- 2024-03-05 08:00:00 +0800 | Kimi（月之暗面）简历的探索 | raw/posts/2024/2024-03-05-Kimi-Moonshot-Resume-Exploration.md | kimi, moonshot, long-context
+- 2024-03-07 08:00:00 +0800 | Rust 入门 | raw/posts/2024/2024-03-07-Getting-Started-with-Rust.md | rust, cargo, rustup
+- 2024-03-10 08:00:00 +0800 | 生成式AI | raw/posts/2024/2024-03-10-Generative-AI.md | generative-ai, llm, fine-tuning
+- 2024-03-13 08:00:00 +0800 | Candle | raw/posts/2024/2024-03-13-candle.md | candle, rust, llm
+- 2024-03-14 08:00:00 +0800 | MLX: An array framework for Apple silicon | raw/posts/2024/2024-03-14-MLX-An-array-framework-for-Apple-silicon.md | mlx, llm, mistral
+- 2024-03-15 10:00:00 +0800 | vLLM 部署 Qwen1.5 LLM | raw/posts/2024/2024-03-15-vLLM-Deployment-Qwen1.5-LLM.md | vllm, llm, qwen
+- 2024-03-16 08:00:00 +0800 | Open Source Models with Hugging Face | raw/posts/2024/2024-03-16-Open-Source-Models-with-Hugging-Face.md | huggingface, transformers, gradio
+- 2024-03-17 08:00:00 +0800 | Building Generative AI Applications with Gradio | raw/posts/2024/2024-03-17-Building-Generative-AI-Applications-with-Gradio.md | gradio, generative-ai, nlp
+- 2024-04-01 08:00:00 +0800 | Prompt Engineering with Llama 2 | raw/posts/2024/2024-04-01-Prompt-Engineering-with-Llama2.md | llama-2, prompt-engineering, code-llama
+- 2024-04-02 08:00:00 +0800 | LLaMA Factory: Easy and Efficient LLM Fine-Tuning | raw/posts/2024/2024-04-02-LLaMA-Factory-Easy-and-Efficient-LLM-Fine-Tuning.md | llama-factory, llm, fine-tuning
+- 2024-04-06 08:00:00 +0800 | Together AI - The fastest cloud platform for building and running generative AI | raw/posts/2024/2024-04-06-together-ai.md | together-ai, llm, inference
+- 2024-04-07 08:00:00 +0800 | Continue Code LLM Autopilot | raw/posts/2024/2024-04-07-Continue-Code-LLM-Autopilot.md | continue, deepseek, code-llm
+- 2024-04-07 10:00:00 +0800 | Continue - It’s time to collect data on how you build software | raw/posts/2024/2024-04-07-Continue-It-is-time-to-collect-data-on-how-you-build-software.md | continue, llm, development-data-engine
+- 2024-04-08 08:00:00 +0800 | Functions, Tools and Agents with LangChain | raw/posts/2024/2024-04-08-Functions-Tools-and-Agents-with-LangChain.md | langchain, openai-function-calling, lcel
+- 2024-04-10 08:00:00 +0800 | LangChain | raw/posts/2024/2024-04-10-LangChain.md | langchain, lcel, langsmith
+- 2024-04-12 08:00:00 +0800 | LangChain Text2SQL Agent | raw/posts/2024/2024-04-12-LangChain-Text2SQL-Agent.md | langchain, text2sql, agent
+- 2024-04-13 08:00:00 +0800 | DashScope 模型服务灵积 | raw/posts/2024/2024-04-13-DashScope-Model-as-a-Service.md | dashscope, maas, 模型即服务
+- 2024-04-14 10:00:00 +0800 | Automated Testing for LLMOps | raw/posts/2024/2024-04-14-Automated-Testing-for-LLMOps.md | llmops, automated-testing, llm-testing
+- 2024-04-14 08:00:00 +0800 | LLMOps | raw/posts/2024/2024-04-14-LLMOps.md | llmops, llm-operations, deeplearning-ai
+- 2024-04-15 08:00:00 +0800 | LangChain Chat Models Function & Tool Calling | raw/posts/2024/2024-04-15-LangChain-Chat-Models-Function-and-Tool-calling.md | langchain, function-calling, tool-calling
+- 2024-04-16 08:00:00 +0800 | LangChain : Tagging and Extraction Using OpenAI functions | raw/posts/2024/2024-04-16-LangChain-Tagging-and-Extraction-Using-OpenAI-functions.md | langchain, tagging, extraction
+- 2024-04-17 08:00:00 +0800 | LangChain : SQL Chain & SQL Agent | raw/posts/2024/2024-04-17-LangChain-SQL-Chain-and-SQL-Agent.md | langchain, sql-chain, sql-agent
+- 2024-04-18 08:00:00 +0800 | Anthropic Claude | raw/posts/2024/2024-04-18-Anthropic-Claude.md | anthropic, claude-3, langchain
+- 2024-04-19 08:00:00 +0800 | Meta Llama 3 | raw/posts/2024/2024-04-19-Meta-Llama-3.md | llama-3, meta, ollama
+- 2024-04-20 08:00:00 +0800 | Gradio Chatbot | raw/posts/2024/2024-04-20-Gradio-Chatbot.md | gradio, chatbot, dashscope
+- 2024-04-21 08:00:00 +0800 | Gradio DataFrame | raw/posts/2024/2024-04-21-Gradio-DataFrame.md | gradio, dataframe, pandas
+- 2024-04-22 08:00:00 +0800 | ChatTongyi | raw/posts/2024/2024-04-22-ChatTongyi.md | langchain, chattongyi, dashscope
+- 2024-05-07 08:00:00 +0800 | LLaMA-Factory 微调 Text2SQL | raw/posts/2024/2024-05-07-LLaMA-Factory-Fine-Tuning-Text2SQL.md | llama-factory, fine-tuning, text2sql
+- 2024-05-08 08:00:00 +0800 | Xorbits Inference: 模型服务变得更容易 | raw/posts/2024/2024-05-08-Xorbits-Inference-Model-Serving-Made-Easy.md | xinference, xorbits-inference, model-serving
+- 2024-05-10 08:00:00 +0800 | 使用大型语言模型进行命名实体识别 | raw/posts/2024/2024-05-10-use-large-language-models-for-named-entity-recognition.md | qwen, langchain, chattongyi
+- 2024-05-11 08:00:00 +0800 | Next.js | raw/posts/2024/2024-05-11-Next.js.md | next-js, react, frontend
+- 2024-05-13 08:00:00 +0800 | 使用大型语言模型微调命名实体识别生成 | raw/posts/2024/2024-05-13-Fine-tuning-named-entity-recognition-generation-using-large-language-models.md | qwen, llama-factory, fine-tuning
+- 2024-05-15 08:00:00 +0800 | 使用大型语言模型微调命名实体识别 | raw/posts/2024/2024-05-15-Fine-tuning-named-entity-recognition-using-large-language-models.md | qwen, llama-factory, fine-tuning
+- 2024-05-19 08:00:00 +0800 | SWIFT: Scalable lightWeight Infrastructure for Fine-Tuning | raw/posts/2024/2024-05-19-SWIFT-Scalable-lightWeight-Infrastructure-for-Fine-Tuning.md | swift, modelscope, fine-tuning
+- 2024-05-20 08:00:00 +0800 | Thoughtworks 技术雷达 第30期 | raw/posts/2024/2024-05-20-Thoughtworks-Tech-Radar-30.md | thoughtworks, tech-radar, llm
+- 2024-05-22 08:00:00 +0800 | CogVLM2 智谱开源多模态大模型 | raw/posts/2024/2024-05-22-CogVLM2-Llama3-19B.md | cogvlm2, ocr, llama3
+- 2024-05-23 08:00:00 +0800 | MiniCPM-Llama3-V 2.5 端侧可用的 GPT-4V 级多模态大模型 | raw/posts/2024/2024-05-23-MiniCPM-Llama3-V-2_5-end-side-available-GPT-4V-level-multi-modal-large-model.md | minicpm-v, ocr, llama3
+- 2024-05-24 08:00:00 +0800 | Phi-3-vision-128k-instruct 微软开源多模态大模型 | raw/posts/2024/2024-05-24-Phi-3-vision-128k-instruct.md | phi3, phi-3-vision, ocr
+- 2024-05-25 08:00:00 +0800 | 基于 LLM 的源代码安全缺陷分析 | raw/posts/2024/2024-05-25-source-code-security-flaw-analysis-based-on-llm.md | llm, code-security, sql-injection
+- 2024-05-26 08:00:00 +0800 | 大型语言模型驱动的自主代理 | raw/posts/2024/2024-05-26-llm-powered-autonomous-agents.md | agent, llm, ai-agent
+- 2024-05-28 08:00:00 +0800 | CrewAI 快速入门 | raw/posts/2024/2024-05-28-CrewAI-Quickstart.md | crewai, agent, llm
+- 2024-05-29 08:00:00 +0800 | SiliconFlow AI Infra | raw/posts/2024/2024-05-29-SiliconFlow-AI-Infra.md | siliconflow, siliconcloud, llm
+- 2024-06-01 08:00:00 +0800 | LLM 技术栈 | raw/posts/2024/2024-06-01-LLM-Tech-Stack.md | llm, tech-stack, sglang
+- 2024-06-02 08:00:00 +0800 | Ollama | raw/posts/2024/2024-06-02-Ollama.md | ollama, llm, local-llm
+- 2024-06-03 08:00:00 +0800 | Continue | raw/posts/2024/2024-06-03-Continue.md | continue, ai-coding-assistant, ollama
+- 2024-06-04 08:00:00 +0800 | Dify | raw/posts/2024/2024-06-04-Dify.md | dify, llmops, agent
+- 2024-06-10 08:00:00 +0800 | AutoGen | raw/posts/2024/2024-06-10-AutoGen.md | autogen, agent, multi-agent
+- 2024-06-11 08:00:00 +0800 | GLM-4V-9B | raw/posts/2024/2024-06-11-GLM-4V-9B.md | glm-4v-9b, glm, multimodal
+- 2024-06-25 08:00:00 +0800 | 在 macOS 上安装 PostgreSQL | raw/posts/2024/2024-06-25-Installing-PostgreSQL-on-macOS.md | postgresql, macos, database
+- 2024-06-27 08:00:00 +0800 | Elmo Chat - Your AI Web Copilot | raw/posts/2024/2024-06-27-Elmo-Chat-Your-AI-Web-Copilot.md | elmo-chat, lepton-ai, chrome-extension
+- 2024-06-30 08:00:00 +0800 | RAG 复杂场景下的工作流程和构建知识库的解析方法 | raw/posts/2024/2024-06-30-RAG-workflow-and-building-knowledge.md | rag, ragflow, knowledge-base
+- 2024-07-04 08:00:00 +0800 | Vanna.AI | raw/posts/2024/2024-07-04-VannaAI.md | vanna-ai, text-to-sql, rag
+- 2024-07-06 08:00:00 +0800 | FastEmbed | raw/posts/2024/2024-07-06-FastEmbed.md | fastembed, qdrant, embeddings
+- 2024-07-07 08:00:00 +0800 | Qdrant | raw/posts/2024/2024-07-07-Qdrant.md | qdrant, vector-database, vector-search
+- 2024-07-08 08:00:00 +0800 | Kwai-Kolors 快手可图 | raw/posts/2024/2024-07-08-Kwai-Kolors.md | kolors, kwai-kolors, text-to-image
+- 2024-07-09 08:00:00 +0800 | Visual Studio Code 快捷键 | raw/posts/2024/2024-07-09-Visual-Studio-Code-Shortcut.md | vscode, visual-studio-code, keyboard-shortcut
+- 2024-07-15 08:00:00 +0800 | Continue 源码分析 | raw/posts/2024/2024-07-15-Continue-Source-Code-Analysis.md | continue, source-code-analysis, vscode-extension
+- 2024-07-22 08:00:00 +0800 | TypeScript 入门 | raw/posts/2024/2024-07-22-Getting-Started-with-TypeScript.md | typescript, getting-started, tsc
+- 2024-07-25 08:00:00 +0800 | GraphRAG | raw/posts/2024/2024-07-25-GraphRAG.md | graphrag, rag, ollama
+- 2024-08-06 08:00:00 +0800 | Visual Studio Code Extension 开发 | raw/posts/2024/2024-08-06-Visual-Studio-Code-Extension.md | vscode, visual-studio-code, vscode-extension
+- 2024-08-08 08:00:00 +0800 | Continue 源码分析 - transformers.js 大模型提供者 | raw/posts/2024/2024-08-08-Continue-Source-Code-Analysis-transformers.js-LLM-Provider.md | continue, transformers-js, source-code-analysis
+- 2024-08-19 08:00:00 +0800 | 数据集 | raw/posts/2024/2024-08-19-LLM-Dataset.md | dataset, llm-training, tensorflow-datasets
+- 2024-08-24 08:00:00 +0800 | Continue 源码分析 - SQLite 数据库设计 | raw/posts/2024/2024-08-24-Continue-Source-Code-Analysis-SQLite-Database-Design.md | continue, sqlite, fts5
+- 2024-08-25 08:00:00 +0800 | Continue 源码分析 - RerankerRetrievalPipeline | raw/posts/2024/2024-08-25-Continue-Source-Code-Analysis-RerankerRetrievalPipeline.md | continue, reranker-retrieval-pipeline, source-code-analysis
+- 2024-08-26 08:00:00 +0800 | Continue 源码分析 - 键盘快捷键 | raw/posts/2024/2024-08-26-Continue-Source-Code-Analysis-Keyboard-Shortcuts.md | continue, keyboard-shortcut, source-code-analysis
+- 2024-08-28 08:00:00 +0800 | Tabby 使用指南 | raw/posts/2024/2024-08-28-Tabby-user-guide.md | tabby, ai-code-assistant, vscode-extension
+- 2024-08-29 08:00:00 +0800 | Cursor 使用指南 | raw/posts/2024/2024-08-29-cursor-user-guide.md | cursor, ai-code-editor, code-assistant
+- 2024-08-30 08:00:00 +0800 | Bloop 使用指南 | raw/posts/2024/2024-08-30-bloop-user-guide.md | bloop, code-search, qdrant
+- 2024-09-03 08:00:00 +0800 | 大模型推理需要多少显存？ | raw/posts/2024/2024-09-03-how-much-vram-is-required-for-llm-inference.md | llm, gpu, vram
+- 2024-09-06 08:00:00 +0800 | SGLang 大模型服务框架 | raw/posts/2024/2024-09-06-SGlang-Large-Language-Model-Serving-Framework.md | sglang, vllm, llm-serving
+- 2024-09-10 08:00:00 +0800 | Higress AI Gateway | raw/posts/2024/2024-09-10-Higress-AI-Gateway.md | higress, ai-gateway, api-gateway
+- 2024-09-11 08:00:00 +0800 | Kong AI Gateway | raw/posts/2024/2024-09-11-Kong-AI-Gateway.md | kong, ai-gateway, api-gateway
+- 2024-09-13 08:00:00 +0800 | LiteLLM: [Python SDK] [Proxy Server (LLM Gateway)] | raw/posts/2024/2024-09-13-LiteLLM-Proxy-Server-LLM-Gateway.md | litellm, ai-gateway, proxy-server
+- 2024-09-14 08:00:00 +0800 | Langfuse: Open Source LLM Engineering Platform | raw/posts/2024/2024-09-14-Langfuse-Open-Source-LLM-Engineering-Platform.md | langfuse, llm-observability, prompt-management
+- 2024-09-15 08:00:00 +0800 | Continue 源码分析 - 向量数据库存储位置 | raw/posts/2024/2024-09-15-Continue-Source-Code-Analysis-Vector-Database-Storage-Location.md | continue, lancedb, vector-database
+- 2024-09-20 08:00:00 +0800 | Continue 源码分析 - 各种命令调用大模型的输入和输出 | raw/posts/2024/2024-09-20-Continue-Source-Code-Analysis-various-commands-calling-large-model-input-and-output.md | continue, source-code-analysis, tab-completion
+- 2024-09-22 08:00:00 +0800 | Qwen2.5-Coder Technical Report | raw/posts/2024/2024-09-22-Qwen2.5-Coder-Technical-Report.md | qwen2.5-coder, code-llm, code-generation
+- 2024-09-23 08:00:00 +0800 | Qwen2 Technical Report | raw/posts/2024/2024-09-23-Qwen2-Technical-Report.md | qwen2, large-language-model, moe
+- 2024-09-25 08:00:00 +0800 | Letta (fka MemGPT) 是用于创建有状态 LLM 服务的框架 | raw/posts/2024/2024-09-25-Letta(fka-MemGPT)-is-a-framework-for-creating-stateful-LLM-services.md | letta, memgpt, llm-agent
+- 2024-09-28 08:00:00 +0800 | LLM 的合成数据 | raw/posts/2024/2024-09-28-Synthetic-data-for-LLM.md | synthetic-data, cosmopedia, distilabel
+- 2024-10-01 08:00:00 +0800 | Reader-LM: 用于清理和转换 HTML 到 Markdown 的小型语言模型 | raw/posts/2024/2024-10-01-Reader-LM-Small-Language-Models-for-Cleaning-and-Converting-HTML-to-Markdown.md | reader-lm, jina-ai, small-language-model
+- 2024-10-01 10:00:00 +0800 | 推测解码 (Speculative Decoding) | raw/posts/2024/2024-10-01-Speculative-Decoding.md | speculative-decoding, llm-inference, inference-acceleration
+- 2024-10-03 10:00:00 +0800 | AutoTrain | raw/posts/2024/2024-10-03-AutoTrain.md | autotrain, hugging-face, model-training
+- 2024-10-03 10:00:00 +0800 | 部署 LLM 多 LoRA 适配器的推理服务 | raw/posts/2024/2024-10-06-Deploying-Inference-Service-for-Multiple-LoRA-Adapters-of-LLM.md | lora, vllm, text-generation-inference
+- 2024-10-07 10:00:00 +0800 | OpenAI API Compatibility | raw/posts/2024/2024-10-07-OpenAI-API-Compatibility.md | openai-api, ollama, litellm
+- 2024-10-08 10:00:00 +0800 | 在华为 Atlas 800I A2 服务器上搭建大模型推理服务 | raw/posts/2024/2024-10-08-Building-LLM-Inference-Service-on-Huawei-Atlas-800I-A2-Server.md | huawei-atlas, ascend-npu, mindie
+- 2024-10-10 10:00:00 +0800 | 华为 Atlas 800I A2 服务器的大模型推理性能压测 | raw/posts/2024/2024-10-10-Performance-Stress-Testing-of-the-Huawei-Atlas-800I-A2-Server-for-Large-Model-Inference.md | evalscope, benchmark, huawei-atlas
+- 2024-10-16 10:00:00 +0800 | 打包 Python 工程到 PyPI：构建 LLM 压测工具 evalscope-perf | raw/posts/2024/2024-10-16-Packaging-Python-Projects-to-PyPI.md | python, pypi, packaging
+- 2024-10-28 10:00:00 +0800 | LangChain Blog: In the Loop | raw/posts/2024/2024-10-28-LangChain-Blog-In-the-Loop.md | langchain, agent, agentic
+- 2024-10-31 10:00:00 +0800 | 华为 Atlas A2 算力切分 | raw/posts/2024/2024-10-31-Huawei-Atlas-A2-Computing-Power-Splitting.md | huawei, atlas-a2, npu
+- 2024-11-07 10:00:00 +0800 | 华为 Atlas A2 上使用 LLaMA-Factory 模型微调 | raw/posts/2024/2024-11-07-Fine-Tuning-Models-with-LLaMA-Factory-on-Huawei-Atlas-A2.md | huawei, atlas-a2, npu
+- 2024-11-08 10:00:00 +0800 | Mac 外接显示器选购 | raw/posts/2024/2024-11-08-Mac-External-Display-Selection.md | macbook-pro, external-display, 显示器
+- 2024-11-13 10:00:00 +0800 | Atlas 900 AI 集群 | raw/posts/2024/2024-11-13-Atlas 900-AI-Cluster.md | atlas-900, ai-cluster, 昇腾
+- 2024-11-15 20:00:00 +0800 | Mac 外接显示器 DELL U2723QE | raw/posts/2024/2024-11-15-Mac-External-Display-DELL-U2723QE.md | dell, macbook-pro, external-display
+- 2024-12-01 10:00:00 +0800 | GitHub Copilot in VS Code | raw/posts/2024/2024-12-01-GitHub-Copilot-in-VS-Code.md | github-copilot, vscode, copilot-chat
+- 2024-12-10 10:00:00 +0800 | Chat Extensions (VS Code) | raw/posts/2024/2024-12-10-Chat-Extensions-VS-Code.md | vscode, chat-extension, github-copilot
+- 2024-12-12 10:00:00 +0800 | Language Model API | raw/posts/2024/2024-12-12-Language-Model-API.md | vscode, language-model-api, chat-extension
+- 2024-12-13 10:00:00 +0800 | Open WebUI | raw/posts/2024/2024-12-13-Open-WebUI.md | open-webui, docker, ollama
+- 2024-12-13 10:00:00 +0800 | vscode-extension-samples/chat-sample 源码分析 | raw/posts/2024/2024-12-15-vscode-extension-samples_chat-sample.md | vscode, vscode-extension-samples, chat-extension
+- 2025-01-01 10:00:00 +0800 | 如何投资个人养老金 | raw/posts/2025/2025-01-01-How-to-invest-in-a-personal-pension.md | 个人养老金, 基金, 投资
+- 2025-01-14 10:00:00 +0800 | 腾讯会议中云录制的 AI+ | raw/posts/2025/2025-01-14-AI+-for-Tencent-Meeting-Recorded-Video.md | 腾讯会议, 云录制, ai应用
+- 2025-01-17 10:00:00 +0800 | CodeGate - 让 AI 编码助手更安全 | raw/posts/2025/2025-01-17-CodeGate.md | codegate, ai-gateway, llm
+- 2025-01-21 10:00:00 +0800 | DeepSeek R1: 通过强化学习激励 LLM 的推理能力 | raw/posts/2025/2025-01-21-DeepSeek-R1-Incentivizing-Reasoning-Capability-in-LLMs-via-Reinforcement-Learning.md | deepseek-r1, deepseek-r1-zero, llm
+- 2025-01-23 10:00:00 +0800 | DeepSeek-V3 Technical Report | raw/posts/2025/2025-01-23-DeepSeek-V3-Technical-Report.md | deepseek-v3, moe, llm
+- 2025-01-24 10:00:00 +0800 | Operator System Card | raw/posts/2025/2025-01-24-Operator-System-Card.md | operator, cua, computer-using-agent
+- 2025-01-25 10:00:00 +0800 | Computer-Using Agent | raw/posts/2025/2025-01-25-Computer-Using-Agent.md | cua, operator, computer-using-agent
+- 2025-01-26 10:00:00 +0800 | CUA 评估额外信息 | raw/posts/2025/2025-01-26-CUA-eval-extra-information.md | cua, benchmark, openai
+- 2025-01-27 10:00:00 +0800 | UI-TARS: Pioneering Automated GUI Interaction with Native Agents | raw/posts/2025/2025-01-27-UI-TARS_Pioneering-Automated-GUI-Interaction-with-Native-Agents.md | ui-tars, agent, gui
+- 2025-01-31 10:00:00 +0800 | OSWorld：在真实计算机环境中为开放式任务进行多模态代理基准测试 | raw/posts/2025/2025-01-31-OSWorld-Benchmarking-Multimodal-Agents-for-Open-Ended-Tasks-in-Real-Computer-Environments.md | osworld, benchmark, agent
+- 2025-02-01 12:00:00 +0800 | Claude API: Computer use | raw/posts/2025/2025-02-01-Claude-API_Computer-use.md | claude, computer-use, agent
+- 2025-02-01 10:00:00 +0800 | Claude: Developing a computer use model | raw/posts/2025/2025-02-01-Claude_Developing-a-computer-use-model.md | claude, anthropic, computer-use
+- 2025-02-02 10:00:00 +0800 | DeepSeek Janus Pro 7B | raw/posts/2025/2025-02-02-DeepSeek-Janus-Pro-7B.md | deepseek, janus-pro-7b, 多模态
+- 2025-02-04 10:00:00 +0800 | SWE-bench: Can Language Models Resolve Real-World GitHub Issues? | raw/posts/2025/2025-02-04-SWE-bench_Can-Language-Models-Resolve-Real-World-GitHub-Issues.md | swe-bench, benchmark, github
+- 2025-02-06 10:00:00 +0800 | Introducing deep research | raw/posts/2025/2025-02-06-Introducing-deep-research.md | deep-research, openai, agent
+- 2025-02-07 10:00:00 +0800 | Open-source DeepResearch – Freeing our search agents | raw/posts/2025/2025-02-07-Open-source-DeepResearch.md | deep-research, hugging-face, agent
+- 2025-02-13 10:00:00 +0800 | 沐曦 MXC500 训练 GPU 的大模型推理性能压测 | raw/posts/2025/2025-02-13-Performance-Stress-Testing-of-the-MuXin-MXC500-for-Large-Model-Inference.md | 沐曦, mxc500, gpu
+- 2025-02-14 10:00:00 +0800 | 部署 DeepSeek-R1 蒸馏模型 | raw/posts/2025/2025-02-14-Deploy-DeepSeek-R1-Distill-Model.md | deepseek-r1, vllm, qwen
+- 2025-02-18 10:00:00 +0800 | 构建自主答题的智能体 | raw/posts/2025/2025-02-18-Building-an-autonomous-answering-agent.md | 安规, agent, ollama
+- 2025-02-22 10:00:00 +0800 | Cline: 自主编程助手 | raw/posts/2025/2025-02-22-Cline-autonomous-coding-agent.md | cline, agent, ollama
+- 2025-02-23 10:00:00 +0800 | Qwen2.5-VL Technical Report | raw/posts/2025/2025-02-23-Qwen2.5-VL-Technical-Report.md | qwen2.5-vl, qwen, 多模态
+- 2025-02-25 10:00:00 +0800 | 海光 DCU 的大模型推理性能压测 | raw/posts/2025/2025-02-25-Performance-Stress-Testing-of-the-HaiGuang-DCU-for-Large-Model-Inference.md | 海光, hygon, dcu
+- 2025-03-01 10:00:00 +0800 | 构建本地 AI 技术栈 | raw/posts/2025/2025-03-01-Build-a-Local-AI-Stack.md | litellm, langfuse, ollama
+- 2025-03-03 10:00:00 +0800 | 大模型推理服务压测报告：vLLM、SGLang、LiteLLM 与 Higress 性能对比 | raw/posts/2025/2025-03-03-Stress-Test-vLLM-SGLang-LiteLLM-Higress.md | benchmark, vllm, sglang
+- 2025-03-08 10:00:00 +0800 | 推理 LLM 技术内幕 - DeepSeek-R1/o1 | raw/posts/2025/2025-03-08-Reasoning-LLM-Technical-Insider.md | deepseek-r1, openai-o1, reasoning-model
+- 2025-03-10 10:00:00 +0800 | 通义灵码2.0 | raw/posts/2025/2025-03-10-TONGYI-Lingma2.md | 通义灵码, ai-coding-assistant, agent
+- 2025-03-13 10:00:00 +0800 | 使用 Cline 构建和管理 MCP 服务器：增强 AI 能力的全面指南 | raw/posts/2025/2025-03-13-Building-and-Managing-MCP-Servers-with-Cline.md | cline, mcp, agent
+- 2025-03-14 10:00:00 +0800 | 模型上下文协议 (MCP) 全面解析：原理、应用与实现 | raw/posts/2025/2025-03-14-Comprehensive-Analysis-of-the-Model-Context-Protocol.md | mcp, model-context-protocol, architecture
+- 2025-03-15 10:00:00 +0800 | continue: config.yaml Reference | raw/posts/2025/2025-03-15-continue_config-yaml-reference.md | continue, ai-coding-assistant, config-yaml
+- 2025-03-16 10:00:00 +0800 | Model Context Protocol (MCP) 的核心概念和能力 | raw/posts/2025/2025-03-16-Core-Concepts-and-Capabilities-of-the-MCP.md | mcp, llm, resource
+- 2025-03-17 10:00:00 +0800 | 大模型实战评测：语言 vs 推理 vs 代码 | raw/posts/2025/2025-03-17-Large-Model-Practical-Evaluation-Language-Reasoning-Code.md | benchmark, llm, qwen
+- 2025-03-18 10:00:00 +0800 | RAGFlow | raw/posts/2025/2025-03-18-RAGFlow.md | ragflow, rag, agent
+- 2025-03-22 10:00:00 +0800 | RAG 2.0 | raw/posts/2025/2025-03-22-RAG2.md | rag, retrieval-augmented-generation, llm
+- 2025-03-24 10:00:00 +0800 | Easy Dataset：基于 LLM 微调数据集的工具 | raw/posts/2025/2025-03-24-Easy-Dataset.md | easy-dataset, 微调数据集, llm
+- 2025-03-25 10:00:00 +0800 | Continue 开发环境搭建时遇到了 esbuild 缺失问题 | raw/posts/2025/2025-03-25-continue-missing-esbuild.md | continue, esbuild, ai-coding-assistant
+- 2025-03-26 08:00:00 +0800 | MCP Python SDK | raw/posts/2025/2025-03-26-MCP-Python-SDK.md | mcp-python-sdk, mcp, python
+- 2025-03-26 12:00:00 +0800 | create-mcp-server | raw/posts/2025/2025-03-26-create-mcp-server.md | create-mcp-server, mcp, python
+- 2025-03-26 10:00:00 +0800 | UV: An extremely fast Python package and project manager, written in Rust. | raw/posts/2025/2025-03-26-uv-Fast-Python-Package-Manager.md | uv, python, package-manager
+- 2025-03-27 09:00:00 +0800 | MCP 架构 | raw/posts/2025/2025-03-27-MCP-Architecture.md | mcp, model-context-protocol, 架构
+- 2025-03-27 10:00:00 +0800 | MCP 基础协议 | raw/posts/2025/2025-03-27-MCP-Base-Protocol.md | mcp, model-context-protocol, json-rpc
+- 2025-03-27 12:00:00 +0800 | MCP 服务器功能 | raw/posts/2025/2025-03-27-MCP-Server-Features.md | mcp, model-context-protocol, 服务器功能
+- 2025-03-27 08:00:00 +0800 | Model Context Protocol 规范 | raw/posts/2025/2025-03-27-Model-Context-Protocol-specification.md | mcp, model-context-protocol, specification
+- 2025-03-30 10:00:00 +0800 | 生成式人工智能 | raw/posts/2025/2025-03-30-Generative-AI.md | generative-ai, 生成式AI, llm
+- 2025-03-31 08:00:00 +0800 | 探索生成式人工智能 | raw/posts/2025/2025-03-31-Exploring-Generative-AI.md | generative-ai, 生成式AI, llm
+- 2025-03-31 10:00:00 +0800 | LLM 推理在软件任务中扮演什么角色？ | raw/posts/2025/2025-03-31-What-role-does-LLM-reasoning-play-for-software-tasks.md | llm-reasoning, chain-of-thought, software-development
+- 2025-04-02 12:00:00 +0800 | 支持 MCP 集成的应用程序列表 | raw/posts/2025/2025-04-02-MCP-Example-Clients.md | mcp, model-context-protocol, mcp-client
+- 2025-04-02 10:00:00 +0800 | MCP 服务器示例和实现列表 | raw/posts/2025/2025-04-02-MCP-Example-Servers.md | mcp, model-context-protocol, mcp-server
+- 2025-04-02 16:00:00 +0800 | 使用 Trae 开发 RAGFlow 助手 | raw/posts/2025/2025-04-02-Use-Trae-to-develop-RAGFlow-Assistant.md | trae, ragflow, ai-coding-assistant
+- 2025-04-03 10:00:00 +0800 | Continue Agent 使用 GitHub MCP Server | raw/posts/2025/2025-04-03-Continue-using-GitHub-MCP-Server.md | continue, github-mcp-server, mcp
+- 2025-04-03 08:00:00 +0800 | GitHub MCP 服务器 | raw/posts/2025/2025-04-03-GitHub-MCP-Server.md | github-mcp-server, mcp, model-context-protocol
+- 2025-04-03 09:00:00 +0800 | MCP Inspector | raw/posts/2025/2025-04-03-MCP-Inspector.md | mcp-inspector, mcp, model-context-protocol
+- 2025-04-04 09:00:00 +0800 | 企业级大模型定制解决方案 | raw/posts/2025/2025-04-04-Enterprise-level-large-model-customization-solution.md | 企业级, 大模型, 定制化
+- 2025-04-04 12:00:00 +0800 | 利用多张 GPU 训练大语言模型 | raw/posts/2025/2025-04-04-Training-Large-Language-Models.md | llm-training, multi-gpu, deepspeed
+- 2025-04-04 08:00:00 +0800 | git pull 批量更新多个仓库 | raw/posts/2025/2025-04-04-git-pull.md | git, git-pull, batch-operations
+- 2025-04-05 08:00:00 +0800 | 构建AI代理：5个常见障碍及解决方案 | raw/posts/2025/2025-04-05-Building-AI-agents-5-common-hurdles-and-fixes.md | ai-agent, llm, tool-integration
+- 2025-04-05 10:00:00 +0800 | DeepSeek-V3 & DeepSeek-R1 | raw/posts/2025/2025-04-05-DeepSeek-V3-PK-DeepSeek-R1.md | deepseek-v3, deepseek-r1, deepseek
+- 2025-04-05 12:00:00 +0800 | Visual Studio Code 2025年3月版本(1.99)的新功能 | raw/posts/2025/2025-04-05-VSCode-Release-Notes-v1_99.md | vscode, release-notes, github-copilot
+- 2025-04-06 08:00:00 +0800 | RAGFlowAssistant | raw/posts/2025/2025-04-06-RAGFlowAssistant.md | ragflow, ragflow-sdk, rag
+- 2025-04-07 08:00:00 +0800 | 开发 RAGFlow MCP Server | raw/posts/2025/2025-04-07-RAGFlow-MCP-Server.md | ragflow, mcp-server, ragflow-sdk
+- 2025-04-10 08:00:00 +0800 | Git 命令 | raw/posts/2025/2025-04-10-Git-Command.md | git, github, version-control
+- 2025-04-15 08:00:00 +0800 | 智能编码新范式 (Cline + DeepSeek) × MCP | raw/posts/2025/2025-04-15-cline-deepseek-mcp-tictactoe.md | cline, deepseek, mcp
+- 2025-04-16 10:00:00 +0800 | Agent2Agent 协议 (A2A) DEMO | raw/posts/2025/2025-04-16-agent2agent-protocol-demo.md | a2a, agent2agent, agent
+- 2025-04-16 08:00:00 +0800 | Agent2Agent 协议 (A2A) | raw/posts/2025/2025-04-16-agent2agent-protocol.md | a2a, agent2agent, agent
+- 2025-04-19 10:00:00 +0800 | 监测推理模型的不当行为以及提升混淆的风险 | raw/posts/2025/2025-04-19-Detecting-misbehavior-in-frontier-reasoning-models.md | chain-of-thought, cot-monitoring, reward-hacking
+- 2025-04-19 08:00:00 +0800 | OpenAI o3 and o4-mini System Card | raw/posts/2025/2025-04-19-OpenAI-o3-and-o4-mini-System-Card.md | openai, o3, o4-mini
+- 2025-04-20 08:00:00 +0800 | A2A ❤️ MCP | raw/posts/2025/2025-04-20-A2A-MCP.md | a2a, mcp, agent2agent
+- 2025-04-21 08:00:00 +0800 | Sky-T1-32B-Flash：在不牺牲准确性的情况下将推理成本削减50% | raw/posts/2025/2025-04-21-Sky-T1-32B-Flash.md | sky-t1, sky-t1-32b-flash, post-training
+- 2025-04-21 07:00:00 +0800 | Sky-T1-32B-Preview: 在450美元内训练你自己的O1预览模型 | raw/posts/2025/2025-04-21-Sky-T1-32B-Preview.md | sky-t1, sky-t1-32b-preview, post-training
+- 2025-04-21 10:00:00 +0800 | Sky-T1-7B：通过强化学习提升推理模型的潜力 | raw/posts/2025/2025-04-21-Sky-T1-7B.md | sky-t1, sky-t1-7b, sky-t1-mini
+- 2025-04-21 19:00:00 +0800 | OpenAI: 构建智能体的实用指南 | raw/posts/2025/2025-04-21-a-practical-guide-to-building-agents.md | openai, agent, agents-sdk
+- 2025-04-22 07:00:00 +0800 | Cline 自定义指令库 | raw/posts/2025/2025-04-22-Cline-Doc_Cline-Custom-Instructions-Library.md | cline, custom-instructions, memory-bank
+- 2025-04-22 10:00:00 +0800 | Cline 的记忆库（Cline's Memory Bank） | raw/posts/2025/2025-04-22-Cline-Doc_Cline-Memory-Bank.md | cline, memory-bank, custom-instructions
+- 2025-04-22 06:00:00 +0800 | Cline 提示指南 🚀 | raw/posts/2025/2025-04-22-Cline-Doc_Cline-Prompting-Guide.md | cline, prompting, custom-instructions
+- 2025-04-23 12:00:00 +0800 | 使用 Cline 从零开始构建自定义 MCP 服务器：综合指南 | raw/posts/2025/2025-04-23-Cline-Doc_Building-Custom-MCP-Servers-From-Scratch-Using-Cline.md | cline, mcp, mcp-server
+- 2025-04-23 06:00:00 +0800 | Cline Mentions 功能指南 | raw/posts/2025/2025-04-23-Cline-Doc_Cline-Mentions-Feature-Guide.md | cline, mentions, context-management
+- 2025-04-23 08:00:00 +0800 | Cline 工具参考指南 | raw/posts/2025/2025-04-23-Cline-Doc_Cline-Tools-Reference-Guide.md | cline, tools, mcp
+- 2025-04-24 08:00:00 +0800 | MCP 快速入门指南 | raw/posts/2025/2025-04-24-Cline-Doc_MCP-Quickstart-Guide.md | cline, mcp, mcp-server
+- 2025-04-24 10:00:00 +0800 | MCP 服务器开发协议 | raw/posts/2025/2025-04-24-Cline-Doc_MCP-Server-Development-Protocol.md | cline, mcp, model-context-protocol
+- 2025-04-24 12:00:00 +0800 | Cline Documentation | raw/posts/2025/2025-04-24-Cline-Documentation.md | cline, cline-doc, vscode-extension
+- 2025-04-25 08:00:00 +0800 | Cline 概览 - Cline 扩展架构和开发指南 | raw/posts/2025/2025-04-25-Cline-Overview.md | cline, vscode-extension, typescript
+- 2025-04-25 12:00:00 +0800 | 鲁软慧码提示工程实战手册 | raw/posts/2025/2025-04-25-Prompting-Engineering-Practice-Manual.md | 鲁软慧码, prompt-engineering, ai-coding-assistant
+- 2025-04-30 10:00:00 +0800 | Text-to-SQL 解决方案 | raw/posts/2025/2025-04-30-Text-to-SQL.md | text-to-sql, sql, llm
+- 2025-05-01 10:00:00 +0800 | SmolAgents 技术栈: LangFuse & LiteLLM | raw/posts/2025/2025-05-01-Smolagents-Langfuse-LiteLLM.md | smolagents, langfuse, litellm
+- 2025-05-05 10:00:00 +0800 | Anthropic: 构建有效的AI智能体 | raw/posts/2025/2025-05-05-Anthropic-Building-effective-agents.md | anthropic, agent, workflow
+- 2025-05-06 10:00:00 +0800 | 提升 LLM 推理能力：CoT, ReAct, ToT | raw/posts/2025/2025-05-06-Enhancing-LLM-Reasoning-Abilities-CoT-ReAct-ToT.md | llm, chain-of-thought, react
+- 2025-05-11 10:00:00 +0800 | 具身智能大模型简介 | raw/posts/2025/2025-05-11-Introduction-to-Embodied-AI.md | embodied-ai, vla, vision-language-action
+- 2025-05-11 12:00:00 +0800 | 具身智能关键技术研究：操作、规划、导航 | raw/posts/2025/2025-05-11-Key-Researchs-of-Embodied-AI.md | embodied-ai, vla, robot-manipulation
+- 2025-05-15 10:00:00 +0800 | 慧思开物：通往通用具身智能之路 | raw/posts/2025/2025-05-15-Embodied-AI-HuiSiKaiWu.md | 慧思开物, embodied-ai, vla
+- 2025-05-26 10:00:00 +0800 | MCPHub：MCP 服务器聚合平台 | raw/posts/2025/2025-05-26-MCPHub-The-Unified-Hub-for-MCP-Servers.md | mcphub, mcp, mcp-server
+- 2025-05-29 10:00:00 +0800 | LeRobot：通过端到端学习让机器人人工智能更易实现 | raw/posts/2025/2025-05-29-LeRobot.md | lerobot, huggingface, pytorch
+- 2025-06-01 10:00:00 +0800 | macOS 图像拼接工具（Automator） | raw/posts/2025/2025-06-01-Automator-ImageStitching.md | automator, macos, image-stitching
+- 2025-06-01 10:00:00 +0800 | GitHub Copilot for VSCode v1.100 | raw/posts/2025/2025-06-02-GitHub-Copilot-for-VSCode-v1_100.md | github-copilot, vscode, ai-coding-assistant
+- 2025-06-04 10:00:00 +0800 | SmolAgents 概念指南：Agent 介绍 | raw/posts/2025/2025-06-04-SmolAgents-Introduction-to-Agents.md | smolagents, ai-agent, agency
+- 2025-06-05 08:00:00 +0800 | MCPHub：MCP 服务器聚合平台（智能路由） | raw/posts/2025/2025-06-05-MCPHub-SmartRoute.md | mcphub, smart-routing, semantic-similarity
+- 2025-06-06 08:00:00 +0800 | 快捷键大全 | raw/posts/2025/2025-06-06-shortcuts.md | 快捷键, macos, terminal
+- 2025-06-07 06:00:00 +0800 | 【生成式AI时代下的机器学习(2025)】第九讲：谈谈有关大型语言模型评估的几件事 | raw/posts/2025/2025-06-07-2025-Generative-AI_09-ModelEvaluation.md | 模型评估, 2025生成式AI时代下的机器学习, 生成式AI
+- 2025-06-07 07:00:00 +0800 | 【生成式AI时代下的机器学习(2025)】第十讲：人工智慧的微创手术 — 浅谈 Model Editing | raw/posts/2025/2025-06-07-2025-Generative-AI_10-Model-Editing.md | 模型编辑, 2025生成式AI时代下的机器学习, 生成式AI
+- 2025-06-07 08:00:00 +0800 | 【生成式AI时代下的机器学习(2025)】第十一讲：浅谈神奇的 Model Merging 技术 | raw/posts/2025/2025-06-07-2025-Generative-AI_11-Model-Merging.md | 模型合并, 2025生成式AI时代下的机器学习, 生成式AI
+- 2025-06-07 10:00:00 +0800 | 【生成式AI时代下的机器学习(2025)】第十二讲：概述语音语言模型发展历程 | raw/posts/2025/2025-06-07-2025-Generative-AI_12-Speech-LLM.md | speech-llm, 2025生成式AI时代下的机器学习, 生成式AI
+- 2025-06-08 08:00:00 +0800 | macOS 解压RAR（Automator） | raw/posts/2025/2025-06-08-Automator-Decompression-RAR.md | automator, macos, homebrew
+- 2025-06-08 00:00:00 +0800 | macOS PNG重命名并转JPG（Automator） | raw/posts/2025/2025-06-08-Automator-PNG-Rename-Convert-JPG.md | automator, macos, homebrew
+- 2025-06-08 12:00:00 +0800 | 华为云具身智能技术探索与实践 | raw/posts/2025/2025-06-08-BAAI-HC-Embodied-AI-Exploration-and-Practice.md | 具身智能, vla, 华为云
+- 2025-06-08 15:00:00 +0800 | 北京智源人工智能研究院（BAAI） | raw/posts/2025/2025-06-08-BAAI-Introduction.md | baai, 智源, 智源大会
+- 2025-06-08 18:00:00 +0800 | 腾讯混元多模态生成模型 | raw/posts/2025/2025-06-08-BAAI-Tencent-Hunyuan-Multi-modal-Generative-Model.md | 多模态模型, 混元, 腾讯
+- 2025-06-08 13:00:00 +0800 | 机器人智能操作系统研制与应用 | raw/posts/2025/2025-06-08-BAAI-intelligent-operating-system-for-robots.md | 具身智能, ros, insightos
+- 2025-06-09 10:00:00 +0800 | Qwen2.5-Omni：端到端多模态大模型 | raw/posts/2025/2025-06-09-Qwen2.5-Omni.md | qwen2.5-omni, qwen, multimodal
+- 2025-06-10 10:00:00 +0800 | Dify：开源 LLM 应用开发平台 | raw/posts/2025/2025-06-10-Dify.md | dify, llmops, workflow
+- 2025-06-10 20:00:00 +0800 | FunAudioLLM：用于人类与LLM自然交互的语音理解与生成基础模型 | raw/posts/2025/2025-06-10-FunAudioLLM.md | funaudiollm, sensevoice, cosyvoice
+- 2025-06-11 08:00:00 +0800 | Cherry Studio 分支策略指南 | raw/posts/2025/2025-06-11-Cherry-Studio-Branch-Strategy.md | cherry-studio, git, branching-strategy
+- 2025-06-12 20:00:00 +0800 | MCPHub 自定义服务器配置及内网部署（一） | raw/posts/2025/2025-06-12-MCPHub-Custom-Server-Setup-Offline-Deployment.md | mcp, mcphub, mcp-server
+- 2025-06-13 08:00:00 +0800 | MCPHub 自定义服务器配置及内网部署（二） | raw/posts/2025/2025-06-13-MCPHub-Custom-Server-Setup-Offline-Deployment-2.md | mcphub, mcp, mcp-server
+- 2025-06-14 08:00:00 +0800 | 具身端侧芯片 NVIDlA Jetson Thor 和 NVIDIA Isaac ROS 介绍 | raw/posts/2025/2025-06-14-NVIDIA-Embodied-Edge-Chip-Jetson-Thor-And-Isaac-ROS.md | nvidia, jetson-thor, isaac-ros
+- 2025-06-14 20:00:00 +0800 | 具身模型 NVIDIA Isaac GROOT N1 详解 | raw/posts/2025/2025-06-14-NVIDIA-Embodied-Isaac-GROOT-N1.md | nvidia, isaac-groot-n1, groot-n1
+- 2025-06-15 16:00:00 +0800 | 跨本体具身大小脑协作框架 RoboOS | raw/posts/2025/2025-06-15-Cross-Body-Embodied-Collaboration-Framework-RoboOS.md | roboos, embodied-intelligence, cross-body-collaboration
+- 2025-06-15 15:00:00 +0800 | 具身大脑 RoboBrain | raw/posts/2025/2025-06-15-Embodied-Brain-RoboBrain.md | robobrain, embodied-intelligence, multimodal-llm
+- 2025-06-15 08:00:00 +0800 | 飞行机器人—从物理智能到具身智能 | raw/posts/2025/2025-06-15-Flying-Robots-Physical-to-Embodied-Intelligence.md | flying-robot, embodied-intelligence, physical-intelligence
+- 2025-06-16 20:00:00 +0800 | Verdaccio：构建与管理内网 npm 仓库的实践指南 | raw/posts/2025/2025-06-16-Build-a-local-npm-registry-based-on-Verdaccio.md | verdaccio, npm, npm-registry
+- 2025-06-17 08:00:00 +0800 | 探索多模态大模型 Qwen2.5-VL | raw/posts/2025/2025-06-17-Explore-Multimodal-Large-Model-Qwen2.5-VL.md | qwen2.5-vl, qwen, multimodal-llm
+- 2025-06-19 08:00:00 +0800 | vLLM：快速易用的 LLM 推理和服务库 | raw/posts/2025/2025-06-19-vLLM.md | vllm, llm, inference
+- 2025-06-22 08:00:00 +0800 | 人工智能时代的软件 (Software in the era of AI) - Andrej Karpathy | raw/posts/2025/2025-06-22-Andrej-Karpathy-Software-Is-Changing-Again.md | andrej-karpathy, software-3.0, software-2.0
+- 2025-06-23 20:00:00 +0800 | 盘古大模型关键技术解读 | raw/posts/2025/2025-06-23-Pangu-LLM.md | pangu, huawei, world-model
+- 2025-06-24 20:00:00 +0800 | FastMCP 实战：构建计算器 MCP 服务器与客户端 | raw/posts/2025/2025-06-24-FastMCP-Build-MCP-Server-and-Client.md | fastmcp, mcp, mcp-server
+- 2025-06-25 20:00:00 +0800 | Gemini Robotics On-Device | raw/posts/2025/2025-06-25-Gemini-Robotics-On-Device.md | gemini-robotics, vla, on-device
+- 2025-06-28 08:00:00 +0800 | Gemini CLI - 开源命令行 AI 智能体 | raw/posts/2025/2025-06-28-Gemini-CLI.md | gemini-cli, gemini, ai-agent
+- 2025-06-29 12:00:00 +0800 | Desktop Extensions (DXT) | raw/posts/2025/2025-06-29-DXT-Desktop-Extensions.md | dxt, desktop-extension, mcp
+- 2025-06-29 08:00:00 +0800 | DXT Manifest.json 规范 | raw/posts/2025/2025-06-29-DXT-Manifest-Spec.md | dxt, manifest-json, mcp
+- 2025-06-30 08:00:00 +0800 | Gemini CLI 项目分析与开发指南 | raw/posts/2025/2025-06-30-Gemini-CLI-Project-Analysis-and-Development-Guide.md | gemini-cli, github-copilot, project-analysis
+- 2025-07-01 08:00:00 +0800 | Docker AI 功能详解与应用 | raw/posts/2025/2025-07-01-Docker-AI.md | docker, docker-ai, docker-model-runner
+- 2025-07-02 22:00:00 +0800 | DXT（桌面扩展）开发指南 | raw/posts/2025/2025-07-02-DXT-Desktop-Extension-Development-Guide.md | dxt, desktop-extension, mcp
+- 2025-07-03 16:00:00 +0800 | Jetson AGX Orin大模型部署挑战与系统升级 | raw/posts/2025/2025-07-03-Jetson-AGX-Orin-LLM-Deployment.md | jetson, jetson-agx-orin, edge-ai
+- 2025-07-05 10:00:00 +0800 | 探索多模态大模型 GLM-4.1V-Thinking | raw/posts/2025/2025-07-05-Explore-MLM-GLM-4_1V-Thinking.md | glm-4.1v-thinking, glm-4v, multimodal
+- 2025-07-09 20:00:00 +0800 | 大模型风向标！OpenRouter平台谁最火？热门应用大揭秘！ | raw/posts/2025/2025-07-09-OpenRouter-Ranking.md | openrouter, llm, ai-apps
+- 2025-07-13 20:00:00 +0800 | 英伟达全栈方案：LLM开发、推理与具身智能 | raw/posts/2025/2025-07-13-Nvidia-AI-Stack-LLM-Development-Inference-Embodied-AI.md | nvidia, llm, tensorrt-llm
+- 2025-07-17 12:00:00 +0800 | 华为 Atlas 800I A2 大模型部署实战（一）：驱动/固件安装与MCU升级 | raw/posts/2025/2025-07-17-Ascend-Atlas-800I-A2-Installation-Guide.md | 昇腾, atlas-800i-a2, npu
+- 2025-07-18 12:00:00 +0800 | 华为 Atlas 800I A2 大模型部署实战（二）：逻辑卷创建与大模型下载 | raw/posts/2025/2025-07-18-Ascend-Atlas-800I-A2-Installation-Guide_Create-Logical-Volume-LLM-Download.md | 昇腾, atlas-800i-a2, npu
+- 2025-07-19 10:00:00 +0800 | 华为 Atlas 800I A2 大模型部署实战（三）：MindIE 安装与部署 LLM | raw/posts/2025/2025-07-19-Ascend-Atlas-800I-A2-Installation-Guide_MindIE-Install-and-Config.md | 昇腾, atlas-800i-a2, npu
+- 2025-07-20 10:00:00 +0800 | 华为 Atlas 800I A2 大模型部署实战（四）：MindIE 多实例 LLM 部署 | raw/posts/2025/2025-07-20-Ascend-Atlas-800I-A2-Installation-Guide_MindIE-Multi-Instance-Depoly.md | 昇腾, atlas-800i-a2, npu
+- 2025-07-24 10:00:00 +0800 | 华为 Atlas 800I A2 大模型部署实战（五）：vLLM 性能测试 | raw/posts/2025/2025-07-24-Ascend-Atlas-800I-A2-Installation-Guide_vLLM-Benchmark.md | 昇腾, atlas-800i-a2, npu
+- 2025-07-26 18:00:00 +0800 | 华为 Atlas 800I A2 大模型部署实战（六）：vLLM 部署 LLM | raw/posts/2025/2025-07-26-Ascend-Atlas-800I-A2-Installation-Guide_vLLM-Deploy.md | 昇腾, atlas-800i-a2, npu
+- 2025-07-29 20:00:00 +0800 | 华为 Atlas 800I A2 大模型部署实战（七）：完整的安装部署流程 | raw/posts/2025/2025-07-29-Ascend-Atlas-800I-A2-Installation-Guide_Complete-Installation-Workflow.md | 昇腾, atlas-800i-a2, npu
+- 2025-07-30 12:00:00 +0800 | 华为 Atlas 800I A2 大模型部署实战（八）：GPUStack 实现 GPU 集群化管理 | raw/posts/2025/2025-07-30-Ascend-Atlas-800I-A2-Installation-Guide_GPUStack.md | 昇腾, atlas-800i-a2, npu
+- 2025-07-30 15:00:00 +0800 | 京东通用智能体：JoyAgent-JDGenie | raw/posts/2025/2025-07-30-JoyAgent-JDGenie.md | joyagent-jdgenie, 京东, agent
+- 2025-07-31 10:00:00 +0800 | 华为 Atlas 800I A2 大模型部署实战（九）：Docker Swarm 分布式部署 | raw/posts/2025/2025-07-31-Ascend-Atlas-800I-A2-Installation-Guide_Docker-Swarm.md | 昇腾, atlas-800i-a2, npu
+- 2025-08-05 12:00:00 +0800 | 华为 Atlas 800I A2 大模型部署实战（十）：GlusterFS 构建高性能共享存储 | raw/posts/2025/2025-08-05-Ascend-Atlas-800I-A2-Installation-Guide_GlusterFS.md | 昇腾, atlas-800i-a2, 910b4
+- 2025-08-08 12:00:00 +0800 | 华为 Atlas 800I A2 大模型部署实战（十一）：部署 OpenAI 开源模型 GPT-OSS | raw/posts/2025/2025-08-08-Ascend-Atlas-800I-A2-Installation-OpenAI-GPT-OSS-Model.md | 昇腾, atlas-800i-a2, openai
+- 2025-08-21 08:00:00 +0800 | PyTorch 神经网络实战：从训练到推理的完整指南 | raw/posts/2025/2025-08-21-PyTorch-Neural-Networks-From-Training-to-Inference.md | pytorch, neural-network, deep-learning
+- 2025-08-26 08:00:00 +0800 | vLLM 推理性能优化实验与分析 | raw/posts/2025/2025-08-26-vLLM-Inference-Benchmarking.md | vllm, qwen3, benchmark
+- 2025-08-29 08:00:00 +0800 | 国务院关于深入实施“人工智能+”行动的意见 | raw/posts/2025/2025-08-29-AI+.md | 人工智能+, 人工智能, 国务院
+- 2025-09-01 00:00:00 +0800 | vLLM 推理引擎的核心优化技术及其工作流程 | raw/posts/2025/2025-09-01-vLLM-Inference-Engine-Core-Optimizations-and-Workflow.md | vllm, llm, 推理
+- 2025-09-06 08:00:00 +0800 | Google Nano Banana | raw/posts/2025/2025-09-06-NanoBanana.md | nano-banana, google, gemini-2.5-flash
+- 2025-09-07 08:00:00 +0800 | 稳定币 | raw/posts/2025/2025-09-07-Stablecoin.md | 稳定币, 金融, 加密货币
+- 2025-09-08 08:00:00 +0800 | 命令行编码智能体 | raw/posts/2025/2025-09-08-CLI-Coding-Agent.md | claude-code, aider, openai-codex
+- 2025-09-11 08:00:00 +0800 | Claude Code 文档 | raw/posts/2025/2025-09-11-Claude-Code-Documention.md | claude-code, claude, ai-coding-assistant
+- 2025-09-13 08:00:00 +0800 | Claude Code 的配置与权限 | raw/posts/2025/2025-09-13-Claude-Code-Doc-Settings.md | claude-code, settings, permissions
+- 2025-09-21 08:00:00 +0800 | Claude Code | raw/posts/2025/2025-09-21-Claude-Code.md | claude-code, claude, agent
+- 2025-09-27 08:00:00 +0800 | macOS PDF2JPG（Automator） | raw/posts/2025/2025-09-27-Automator-PDF2JPG.md | automator, pdf2jpg, imagemagick
+- 2025-09-27 20:00:00 +0800 | 【生成式人工智慧与机器学习导论2025】第二讲：上下文工程 (Context Engineering) — AI Agent 背后的关键技术 | raw/posts/2025/2025-09-27-GenAI-ML-02-Context-Engineering.md | context-engineering, 上下文工程, ai-agent
+- 2025-09-27 12:00:00 +0800 | 软件开发模式重构 | raw/posts/2025/2025-09-27-Software-Development-Model-Refactoring.md | software-development, 软件开发, ai-agent
+- 2025-10-01 06:00:00 +0800 | 使用 Claude Agent SDK 构建智能体 | raw/posts/2025/2025-10-01-Claude-Agent-SDK.md | claude-agent-sdk, claude, ai-agent
+- 2025-10-04 06:00:00 +0800 | Jetson Thor 权威指南：从开箱到大模型部署与性能优化 | raw/posts/2025/2025-10-04-Definitive-Guide-to-Jetson-Thor-LLM-Deployment-and-Benchmarking.md | jetson-thor, jetson, nvidia
+- 2025-10-12 06:00:00 +0800 | Jetson Thor 平台上 Qwen3 系列大模型性能基准测试分析 | raw/posts/2025/2025-10-12-Jetson-Thor-LLM-Benchmarking.md | jetson-thor, jetson, qwen3
+- 2025-10-15 08:00:00 +0800 | llama.cpp 实战指南（Jetson Thor 平台）：从源码编译到 GGUF 模型部署与性能基准测试 | raw/posts/2025/2025-10-15-llama.cpp-jetson-thor-gguf-benchmark.md | llama.cpp, llama-server, gguf
+- 2025-10-16 08:00:00 +0800 | 使用 nmtui 配置 Jetson Thor Wi-Fi 热点（AP 模式） | raw/posts/2025/2025-10-16-nmtui_JetsonThor_WiFi_AP_Config.md | jetson-thor, nmtui, networkmanager
+- 2025-10-19 10:00:00 +0800 | whisper.cpp 实战指南（Jetson Thor 平台） | raw/posts/2025/2025-10-19-whisper.cpp-jetson-thor.md | whisper.cpp, whisper, speech-recognition
+- 2025-10-24 10:00:00 +0800 | DeepSeek-OCR 研究与实测 | raw/posts/2025/2025-10-24-DeepSeek-OCR.md | deepseek-ocr, ocr, document-understanding
+- 2025-11-01 08:00:00 +0800 | 大模型（语言、视觉语言、语音）推理服务部署与测试 | raw/posts/2025/2025-11-01-large-model-inference-deploy-test.md | llm, vllm, sglang
+- 2025-11-10 08:00:00 +0800 | WhisperLiveKit - 实时语音识别 | raw/posts/2025/2025-11-10-WhisperLiveKit.md | whisperlivekit, asr, whisper
+- 2025-11-16 12:00:00 +0800 | 发表于 X/Twitter 的推文（关于 AI 与可验证性） | raw/posts/2025/2025-11-16-quote-andrej-karpathy.md | ai, andrej-karpathy, generative-ai
+- 2025-11-19 08:00:00 +0800 | SimulStreaming — 实时流式语音识别工具包 | raw/posts/2025/2025-11-19-SimulStreaming.md | simulstreaming, asr, whisper
+- 2025-11-20 08:00:00 +0800 | SenseVoice | raw/posts/2025/2025-11-20-SenseVoice.md | sensevoice, asr, funasr
+- 2025-11-21 08:00:00 +0800 | FunASR - 基础语音识别工具包 | raw/posts/2025/2025-11-21-FunASR.md | funasr, asr, vad
+- 2025-11-24 08:00:00 +0800 | 智能会议系统 Jetson Thor 上部署模型服务指南 | raw/posts/2025/2025-11-24-Smart-Meeting-System-Jetson-Thor.md | 智能会议系统, jetson-thor, whisperlivekit
+- 2025-12-01 10:00:00 +0800 | 未来 5 年公司智算需求预测 | raw/posts/2025/2025-12-01-AI-Compute-Prediction.md | ai-computing, 智算, 算力
+- 2025-12-01 08:00:00 +0800 |  | raw/posts/2025/2025-12-01-reachy-mini.md | reachy-mini, mujoco, python
+- 2025-12-05 23:00:00 +0800 | PowerShell 脚本示例 | raw/posts/2025/2025-12-05-PowerShell-Example.md | powershell, windows, scripting
+- 2025-12-06 16:00:00 +0800 | FunASR：多模型协同推理与语音处理全链路实践 (ASR, VAD, PUNC, SV) | raw/posts/2025/2025-12-06-FunASR.md | funasr, asr, vad
+- 2025-12-19 12:00:00 +0800 | 发表于《2025 LLM Year in Review》 | raw/posts/2025/2025-12-19-quote-andrej-karpathy.md | definitions, ai, andrej-karpathy
+- 2025-12-31 08:00:00 +0800 | 2025 年大模型实践总结 | raw/posts/2025/2025-12-31-2025-summary.md | 总结, 大模型, 智能体
+- 2026-01-01 08:00:00 +0800 | 京东健康核心数据分析 | raw/posts/2026/2026-01-01-JD-Health.md | 投资, jd-health, 股票
+- 2026-01-01 10:00:00 +0800 | 美团核心能力与护城河分析 | raw/posts/2026/2026-01-01-MeiTuan.md | 投资, 美团, 股票
+- 2026-01-03 08:00:00 +0800 | 2026 年飞马图像生成 | raw/posts/2026/2026-01-03-Image-Generate-Horse.md | 图像生成, vlm, 飞马
+- 2026-01-07 08:00:00 +0800 | 深度网络连接范式演进：残差连接 → 超连接 (HC) → 流形约束超连接 (mHC) | raw/posts/2026/2026-01-05-DeepSeek-mHC-Manifold-Constrained-Hyper-Connections.md | deepseek, mhc, hyper-connections
+- 2026-01-10 08:00:00 +0800 | 分析基于边端电力设备的人工智能应用 | raw/posts/2026/2026-01-10-AI-Apps-for-Edge-Power-Devices.md | 电力, 边缘计算, 人工智能
+- 2026-01-11 08:00:00 +0800 | NVIDIA CES 2026：物理 AI 时代来了 | raw/posts/2026/2026-01-11-NVIDIA-CES-2026-Physical-AI.md | nvidia, ces-2026, physical-ai
+- 2026-01-13 08:00:00 +0800 | AI 编程的演进：从插件到原生 IDE 再到 CLI 工具 | raw/posts/2026/2026-01-13-AI-Coding.md | ai-coding, github-copilot, cursor
+- 2026-01-14 08:00:00 +0800 | DeepSeek Engram：类脑记忆存储与检索新范式 | raw/posts/2026/2026-01-14-DeepSeek-Engram.md | deepseek, engram, llm
+- 2026-01-18 08:00:00 +0800 | Cursor 的上下文工程与编程智能体 | raw/posts/2026/2026-01-18-Context-Engineering-Coding-Agents-with-Cursor.md | cursor, context-engineering, coding-agents
+- 2026-01-19 18:00:00 +0800 | 评估模型投资分析能力：京东健康案例 | raw/posts/2026/2026-01-19-Evaluate-investment-analysis-capability-of-various-models.md | benchmark, 投资, jd-health
+- 2026-01-19 20:00:00 +0800 | 硅谷 101：物理 AI | raw/posts/2026/2026-01-19-Silicon-Valley-101-Physical-AI.md | physical-ai, ces-2026, nvidia
+- 2026-01-21 10:00:00 +0800 | Dify 定制您的政策解读智能体 | raw/posts/2026/2026-01-21-Dify-Custom-Agent.md | dify, agent, policy-reading
+- 2026-01-22 10:00:00 +0800 | 认识美团 2025 | raw/posts/2026/2026-01-22-MeiTuan-2025.md | investment, meituan, jd
+- 2026-01-24 10:00:00 +0800 | LongCat-Flash-Thinking-2601 技术报告 | raw/posts/2026/2026-01-24-LongCat-Flash-Thinking-2601.md | longcat-flash-thinking-2601, meituan, llm
+- 2026-01-26 10:00:00 +0800 | iFlow CLI | raw/posts/2026/2026-01-26-iFlow-CLI.md | iflow, cli, agent
+- 2026-01-31 12:00:00 +0800 | 发表于 Twitter/X 的推文（关于 GPT-2 训练成本下降） | raw/posts/2026/2026-01-31-quote-andrej-karpathy.md | ai, openai, andrej-karpathy
+- 2026-02-01 10:00:00 +0800 | 本地 AI 助手 OpenClaw：macOS 实操指南 + 核心架构分析 | raw/posts/2026/2026-02-01-OpenClaw.md | openclaw, agent, local-ai
+- 2026-02-03 10:00:00 +0800 | Kimi Code 实战 | raw/posts/2026/2026-02-03-Kimi-Code.md | kimi-code, agent, cli
+- 2026-02-07 01:00:00 +0800 | Kimi K2.5：首个开源多模态智能体集群 | raw/posts/2026/2026-02-07-Kimi-K2.5.md | kimi-k2.5, agent-swarm, llm
+- 2026-02-10 19:00:00 +0800 | OpenClaw - 智能体 | raw/posts/2026/2026-02-10-OpenClaw-Agents.md | openclaw, agent, skill
+- 2026-02-13 10:00:00 +0800 | OpenClaw 智能体工作区指南：构建记忆与人格 | raw/posts/2026/2026-02-13-OpenClaw-Agent-Workspace-Building-Memory.md | openclaw, agent, memory
+- 2026-02-14 10:00:00 +0800 | 🦞 本地 AI 助手 OpenClaw 的架构与记忆系统 | raw/posts/2026/2026-02-14-OpenClaw-Architecture-Memory-System.md | openclaw, ai-agent, local-first
+- 2026-02-15 18:00:00 +0800 | 直接和它对话——智能体工程的实用指南 | raw/posts/2026/2026-02-15-Agentic-Engineering.md | agentic-engineering, openclaw, peter-steinberger
+- 2026-02-15 10:00:00 +0800 | 以推理速度交付：为什么我不再阅读代码，而是看着它飞速流转 | raw/posts/2026/2026-02-15-shipping-at-inference-speed.md | agentic-engineering, openclaw, peter-steinberger
+- 2026-02-16 10:00:00 +0800 | OpenClaw：打破互联网的病毒式 AI 智能体 | raw/posts/2026/2026-02-16-OpenClaw-The-Viral-AI-Agent-that-Broke-the-Internet.md | openclaw, ai-agent, peter-steinberger
+- 2026-02-17 10:00:00 +0800 | OpenClaw 架构设计 | raw/posts/2026/2026-02-17-OpenClaw-Architecture.md | openclaw, ai-agent, architecture
+- 2026-02-18 20:00:00 +0800 | 🦞 个人 AI 助手 OpenClaw 应用实践 | raw/posts/2026/2026-02-18-OpenClaw-Application-and-Practice.md | openclaw, ai-agent, 应用实践
+- 2026-02-18 12:00:00 +0800 | OpenClaw 技能：ClawChess 国际象棋对战 | raw/posts/2026/2026-02-18-OpenClaw-ClawChess-SKILL.md | openclaw, skill, clawchess
+- 2026-02-18 10:00:00 +0800 | OpenClaw 源代码分析 | raw/posts/2026/2026-02-18-OpenClaw-Source-Code-Analysis.md | openclaw, source-code-analysis, message-flow
+- 2026-02-19 10:00:00 +0800 | Claude Skill（技能）构建完全指南 | raw/posts/2026/2026-02-19-Claude-Skill-Building-Guide.md | claude, skill, skill-md
+- 2026-02-21 10:00:00 +0800 | EvoMap（一个 Agent 学会，百万 Agent 继承）Skill（技能） | raw/posts/2026/2026-02-21-EvoMap.md | evomap, gep-a2a, evolver
+- 2026-02-21 12:00:00 +0800 | Andrej Karpathy 谈论「Claws」 | raw/posts/2026/2026-02-21-quote-claws.md | ai, generative-ai, llms
+- 2026-02-22 14:00:00 +0800 | NanoClaw 深度分析：AI 原生、技能系统与核心设计思想 | raw/posts/2026/2026-02-22-NanoClaw-Anslysis.md | nanoclaw, openclaw, ai-native
+- 2026-02-22 10:00:00 +0800 | 氛围编程 vs 智能体工程 | raw/posts/2026/2026-02-22-Vibe-Coding-vs-Agentic-Engineering.md | vibe-coding, agentic-engineering, andrej-karpathy
+- 2026-02-22 12:00:00 +0800 | Andrej Karpathy：Claws 将成为 AI 技术栈中的新层级 | raw/posts/2026/2026-02-22-claws-the-new-layer.md | claws, openclaw, nanoclaw
+- 2026-02-23 12:00:00 +0800 | NanoClaw 架构设计深度解析 | raw/posts/2026/2026-02-23-nanoclaw-architecture-design.md | nanoclaw, architecture-design, git-three-way-merge
+- 2026-02-23 22:00:00 +0800 | NanoClaw 完整文档（含使用、架构、安全与开发） | raw/posts/2026/2026-02-23-nanoclaw-docs.md | nanoclaw, documentation, claude-code
+- 2026-02-23 10:00:00 +0800 | 具身智能大脑：VLA 模型架构解析与训练实战 | raw/posts/2026/2026-02-23-vla-model-architecture-and-training.md | vla, vision-language-action, embodied-ai
+- 2026-02-25 18:00:00 +0800 | 大模型应用开发范式的演变 | raw/posts/2026/2026-02-25-paradigm-evolution-llm-apps.md | prompt-engineering, context-engineering, rag
+- 2026-02-26 10:00:00 +0800 | OpenClaw 智能体引擎工作流程及实现代码分析 | raw/posts/2026/2026-02-26-OpenClaw-Agent-Engine.md | openclaw, agent-engine, pi-agent-core
+- 2026-02-26 18:00:00 +0800 | OpenClaw Voice Call 插件使用方法和工作流程详解 | raw/posts/2026/2026-02-26-OpenClaw-Voice-Call-Plugin-Workflow.md | openclaw, voice-call, twilio
+- 2026-02-26 08:00:00 +0800 | /llms.txt 文件 | raw/posts/2026/2026-02-26-llms.md | llms-txt, llm, markdown
+- 2026-02-26 12:00:00 +0800 | 发表于 Twitter/X 的推文（关于 AI 对编程的影响） | raw/posts/2026/2026-02-26-quote-andrej-karpathy.md | ai, generative-ai, llms
+- 2026-02-27 08:00:00 +0800 | Claude Cowork 知识工作插件（Knowledge Work Plugins） | raw/posts/2026/2026-02-27-Claude-Cowork-Knowledge-Work-Plugins.md | claude, claude-cowork, claude-code
+- 2026-02-28 12:00:00 +0800 | Agent 代码安全扫描、修复与渗透测试工具推荐 | raw/posts/2026/2026-02-28-Agent-Code-Security.md | agent, 安全, code-security
+- 2026-03-01 18:00:00 +0800 | 三款顶级 AI 智能体架构深度拆解：从 Rust 原生高性能到 Python 极简主义 | raw/posts/2026/2026-03-01-AI-Agent-Architectures-ZeroClawIronClawNanobot.md | ai-agent, agent-architecture, zero-claw
+- 2026-03-02 08:00:00 +0800 | 面向 AI 编码智能体的 Redis 设计模式与文档 | raw/posts/2026/2026-03-02-Redis-Patterns-and-Documentation-for-AI-Coding.md | redis, design-patterns, ai-coding-agent
+- 2026-03-02 18:00:00 +0800 | Peter Steinberger 开发 OpenClaw 的工作流程及 Agent 编码秘诀分析 | raw/posts/2026/2026-03-02-openclaw-peter-steinberger-workflow-agent-coding.md | openclaw, agent-coding, peter-steinberger
+- 2026-03-03 08:00:00 +0800 | Claude 代码安全审查 (Claude Code Security Review) | raw/posts/2026/2026-03-03-Claude-Code-Security-Review.md | claude-code, security-review, github-action
+- 2026-03-04 08:00:00 +0800 | Cline 项目架构设计文档 | raw/posts/2026/2026-03-04-ClineArchitectureDesign.md | cline, vs-code-extension, architecture-design
+- 2026-03-05 08:00:00 +0800 | 飞算 JavaAI：五步智能引导构建坦克大战游戏 | raw/posts/2026/2026-03-05-Feisuan-JavaAI.md | 飞算javaai, ai-coding, java
+- 2026-03-05 20:00:00 +0800 | 基于 OpenClaw 开发AI助手ZeroAI：五步流程，帮你完成软件开发全流程 | raw/posts/2026/2026-03-05-OpenClaw-Development-ZeroAI.md | openclaw, zeroai, ai-development-assistant
+- 2026-03-07 08:00:00 +0800 | Cline 技术架构深度分析 | raw/posts/2026/2026-03-07-ClineArchitectureDesign.md | cline, ai-coding-assistant, architecture-analysis
+- 2026-03-08 20:00:00 +0800 | 需求即代码：ZeroAI 让开发触手可及 | raw/posts/2026/2026-03-08-ZeroAI.md | zeroai, agent, software-development
+- 2026-03-14 22:00:00 +0800 | Next AI Draw.io 架构设计分析 | raw/posts/2026/2026-03-14-Next-AI-Draw.io.md | next-ai-draw-io, drawio, diagram-generation
+- 2026-03-14 18:00:00 +0800 | Vercel AI SDK 架构设计分析 | raw/posts/2026/2026-03-14-Vercel-AI-SDK.md | vercel-ai-sdk, ai-sdk, typescript
+- 2026-03-14 08:00:00 +0800 | elizaOS 多智能体架构设计分析 | raw/posts/2026/2026-03-14-elizaOS-Multi-Agent.md | elizaos, multi-agent, agent-framework
+- 2026-03-17 20:00:00 +0800 | OpenClaw 个人 AI 助手完整部署指南：从安装到模型调优的终极实战手册 | raw/posts/2026/2026-03-17-OpenClaw-Setup-Setting.md | openclaw, agent, installation
+- 2026-03-26 18:00:00 +0800 | Agent News：首个专为智能体打造的新闻门户，及基于 OpenClaw 的“龙虾团队”自动化运营实践 | raw/posts/2026/2026-03-26-Agent-News.md | agent-news, openclaw, multi-agent
+- 2026-03-27 08:00:00 +0800 | OpenClaw v2026.3.24 重置指南：深度集成方舟 Coding Plan 与飞书渠道 | raw/posts/2026/2026-03-27-OpenClaw-Reset-Guide_Ark-Coding-Plan-and-Feishu-Channel.md | openclaw, agent, configuration
+- 2026-03-28 20:00:00 +0800 | AI 技术研究及开源项目评估 | raw/posts/2026/2026-03-28-ai-tech-open-source.md | ai-research, open-source, 技术评估
+- 2026-03-28 08:00:00 +0800 | Anthropic：长时运行智能体的有效脚手架 (Harnesses) | raw/posts/2026/2026-03-28-effective-harnesses-for-long-running-agents.md | anthropic, claude, harness-engineering
+- 2026-03-29 20:00:00 +0800 | Harness Engineering：AI时代的软件工程新范式 | raw/posts/2026/2026-03-29-Harness-Engineering-A-New-Paradigm-of-Software-Engineering-in-the-AI-Era.md | harness-engineering, ai-agent, software-engineering
+- 2026-03-29 12:00:00 +0800 | Harness Engineering | raw/posts/2026/2026-03-29-Harness-Engineering.md | harness-engineering, ai-agent, context-engineering
+- 2026-03-29 08:00:00 +0800 | Anthropic：面向长时间运行应用开发的 Harness 设计 | raw/posts/2026/2026-03-29-harness-design-long-running-apps.md | anthropic, claude, harness-engineering
+- 2026-03-30 20:00:00 +0800 | Harness Engineering｜软件工程师的角色革命，从写代码到设计环境 | raw/posts/2026/2026-03-30-Harness-Engineering-Software-Role.md | harness-engineering, ai-agent, software-engineering
+- 2026-03-30 12:00:00 +0800 | 一文读懂 Harness Engineering：AI 时代软件工程的全新范式 | raw/posts/2026/2026-03-30-Harness-Engineering.md | harness-engineering, ai-agent, software-engineering
+- 2026-03-31 21:00:00 +0800 | Claude Code 项目概览及架构设计 | raw/posts/2026/2026-03-31-Claude-Code.md | claude-code, ai-agent, coding-agent
+- 2026-03-31 12:00:00 +0800 | OpenCode 落地指南：从模型配置到 agency-agents 智能体集成 | raw/posts/2026/2026-03-31-opencode.md | opencode, ai-agent, coding-agent
+- 2026-04-01 20:00:00 +0800 | Claude Code 源代码分析 | raw/posts/2026/2026-04-01-claude-code.md | claude-code, ai-agent, source-code-analysis
+- 2026-04-01 12:00:00 +0800 | 开源 AI 编码智能体 OpenCode 使用指南 | raw/posts/2026/2026-04-01-opencode.md | opencode, ai-agent, coding-agent
+- 2026-04-04 10:00:00 +0800 | Andrej Karpathy：大语言模型构建个人知识库的实践指南 | raw/posts/2026/2026-04-04-karpathy-llm-knowledge-base.md | andrej-karpathy, llm, knowledge-base
+- 2026-04-05 10:00:00 +0800 | Harness Engineering（驾驭工程）：2026 AI 软件工程新范式 | raw/posts/2026/2026-04-05-harness_engineering_guide.md | harness-engineering, ai-agent, software-engineering
+- 2026-04-06 16:00:00 +0800 | Harness Engineering 实战：利用 Autoresearch 实现 AI 模型的自我进化 | raw/posts/2026/2026-04-06-autoresearch-gemini-3-deepresearch.md | autoresearch, harness-engineering, ai-agent
+- 2026-04-06 20:00:00 +0800 | AutoResearch：AI 自主进行前沿语言模型研究 | raw/posts/2026/2026-04-06-autoresearch.md | autoresearch, harness-engineering, ai-agent
+- 2026-04-07 20:00:00 +0800 | WikiLLM：基于 LLM 驱动的个人知识库 | raw/posts/2026/2026-04-07-wikillm.md | wikillm, llm, knowledge-base
+- 2026-04-08 12:00:00 +0800 | gstack：AI 驱动的软件生命周期全流程自动化 | raw/posts/2026/2026-04-08-gstack.md | gstack, claude-code, ai-agent
+- 2026-04-10 18:00:00 +0800 | LLM 智能体的外化：记忆、技能、协议与 Harness Engineering 统一综述 | raw/posts/2026/2026-04-10-2604_08224v1.md | llm-agent, harness-engineering, externalization
+- 2026-04-10 12:00:00 +0800 | Garry Tan（YC 总裁）- 大展宏图（煮沸海洋） | raw/posts/2026/2026-04-10-boil-the-ocean.md | garry-tan, yc, asi
+- 2026-04-11 10:00:00 +0800 | Claude Managed Agents（托管智能体）开发者参考指南 | raw/posts/2026/2026-04-11-claude-managed-agents.md | claude, managed-agents, anthropic
+- 2026-04-11 13:00:00 +0800 | macOS Finder 中的“反向选择”功能实现(Automator) | raw/posts/2026/2026-04-11-macos-automator-inverse-selection.md | macos, finder, automator
+- 2026-04-12 08:00:00 +0800 | 用通俗易懂的方式理解 Harness Engineering | raw/posts/2026/2026-04-12-Harness-Engineering.md | harness-engineering, ai-agent, llm
+- 2026-04-12 12:00:00 +0800 | Hermes 智能体全面研究报告与 OpenClaw 对比分析 | raw/posts/2026/2026-04-12-Hermes.md | hermes-agent, openclaw, nous-research
+- 2026-04-13 10:00:00 +0800 | 2026 AI 指数报告：在模型超越人类的同时，我们正面临的五个残酷真相 | raw/posts/2026/2026-04-13-2026-ai-index-report.md | ai-index-report, stanford-hai, artificial-intelligence
+- 2026-04-12 12:00:00 +0800 | 具身智能（Embodied AI）技术综述：从基础理论到工程实践 | raw/posts/2026/2026-04-13-Embodied_AI_Survey.md | 具身智能, embodied-ai, robotics
+- 2026-04-15 12:00:00 +0800 | 情感价值的全球化坐标：基于巴菲特与段永平投资框架的泡泡玛特2025年财报深度研读 | raw/posts/2026/2026-04-15-popmart_investment_analysis-2025.md | 投资, 泡泡玛特, 价值投资
+- 2026-04-15 08:00:00 +0800 | 泡泡玛特（9992.HK）投资深度分析报告 | raw/posts/2026/2026-04-15-popmart_investment_analysis.md | 投资, 泡泡玛特, 价值投资
+- 2026-04-18 08:00:00 +0800 | Claude Code 插件市场指南 | raw/posts/2026/2026-04-18-claude-code-plugin-marketplace.md | claude-code, plugin, marketplace
+- 2026-04-19 08:00:00 +0800 | 代码“图谱化”利器：Understand-Anything | raw/posts/2026/2026-04-19-Understand-Anything.md | understand-anything, plugin, knowledge-graph
+- 2026-04-19 10:00:00 +0800 | 代码评审知识图谱：code-review-graph | raw/posts/2026/2026-04-19-code-review-graph.md | code-review-graph, mcp, knowledge-graph
+- 2026-04-22 08:00:00 +0800 | 编码智能体的核心组件（Sebastian Raschka） | raw/posts/2026/2026-04-22-components-of-a-coding-agent.md | 智能体, 编码智能体, coding-agent
+- 2026-04-28 08:00:00 +0800 | DeepSeek-V4 全面解读：架构设计与 inference/encoding 源码深度解析 | raw/posts/2026/2026-04-28-deepseek-v4.md | deepseek-v4, deepseek, moe
+- 2026-04-29 08:00:00 +0800 | 巴菲特/段永平视角下的京东健康、泡泡玛特、美团和贵州茅台：2025年度报告深度解读 | raw/posts/2026/2026-04-29-value_china_2025.md | 投资, 价值投资, 巴菲特
+- 2026-04-30 08:00:00 +0800 | WebP 格式的命令工具 | raw/posts/2026/2026-04-30-webp-image-format.md | webp, cwebp, dwebp
+- 2026-05-01 10:00:00 +0800 | macOS 图像转为 WebP 格式（Automator） | raw/posts/2026/2026-05-01-automator-image-to-webp.md | automator, macos, quick-actions
+- 2026-05-01 08:00:00 +0800 | Kilo Code：基于智能体工程的自动化软件开发平台 | raw/posts/2026/2026-05-01-kilocode.md | kilo-code, 智能体, coding-agent
+- 2026-05-05 08:00:00 +0800 | Reachy Mini 机器人 | raw/posts/2026/2026-05-05-reachy-mini.md | reachy-mini, 机器人, robotics
+- 2026-05-06 08:00:00 +0800 | 研究编码智能体（Kilo Code）开源项目的最佳实践 | raw/posts/2026/2026-05-06-kilo-code-coding-agent-best-practices.md | kilo-code, 智能体, coding-agent
+- 2026-05-07 08:00:00 +0800 | 集成个人助手（OpenClaw｜Hermes）的方式 | raw/posts/2026/2026-05-07-integrate-personal-assistant-openclaw-hermes-method.md | openclaw, hermes, 聊天软件
+- 2026-05-08 08:00:00 +0800 | KiloClaw 安全白皮书 | raw/posts/2026/2026-05-08-kiloclaw-security-white-paper.md | kiloclaw, 安全, security-white-paper
+- 2026-05-09 22:00:00 +0800 | 给 GitHub Pages 博客加评论：用 Giscus 开启原生的 Discussions 方案 | raw/posts/2026/2026-05-09-github-pages-giscus-discussions.md | github-pages, giscus, github-discussions
+- 2026-05-09 12:00:00 +0800 | Hermes 与 OpenClaw —— 该选哪个智能体？ | raw/posts/2026/2026-05-09-hermes-vs-openclaw-when-to-reach.md | hermes, openclaw, ai-agent
+- 2026-05-10 08:00:00 +0800 | LLM Wiki：基于大语言模型的个人知识库构建模式 | raw/posts/2026/2026-05-10-karpathy-llm-wiki.md | llm-wiki, knowledge-base, personal-knowledge-management
+- 2026-05-10 12:00:00 +0800 | 发表于《Replacing a 3 GB SQLite database with a 10 MB FST binary》脚注 | raw/posts/2026/2026-05-10-quote-andrew-quinn.md | sqlite, careers, andrew-quinn
+- 2026-05-10 12:00:00 +0800 | Reachy Mini Python SDK 开发实战：从运动控制到视觉音频交互 | raw/posts/2026/2026-05-10-reachy-mini-dev-guide-motion-to-media.md | reachy-mini, python-sdk, 机器人
+- 2026-05-11 20:00:00 +0800 | 使用 Claude Code：HTML 超乎寻常的妙用 | raw/posts/2026/2026-05-11-using-claude-code-the-unreasonable-effectiveness-of-html.md | html, markdown, claude-code
+- 2026-05-13 20:00:00 +0800 | Speech To Speech：使用开源模型构建本地语音智能体 | raw/posts/2026/2026-05-13-speech-to-speech.md | speech-to-speech, 语音智能体, vad
+- 2026-05-15 20:00:00 +0800 | 搭建 Reachy Mini 语音对话智能体 | raw/posts/2026/2026-05-15-build-reachy-mini-voice-conversation-agent.md | reachy-mini, 语音智能体, speech-to-speech
+- 2026-05-16 18:00:00 +0800 | Pi - AI 编码智能体架构设计文档 | raw/posts/2026/2026-05-16-pi-agent-architecture.md | pi-agent, 智能体, 架构设计
+- 2026-05-17 18:00:00 +0800 | Kilo Code - AI 编码智能体架构设计文档 | raw/posts/2026/2026-05-17-kilocode-architecture.md | kilo-code, 智能体, 架构设计
+- 2026-05-18 20:00:00 +0800 | Reachy Mini Conversation App | raw/posts/2026/2026-05-18-reachy_mini_conversation_app.md | reachy-mini-conversation-app, reachy-mini, 语音智能体
+- 2026-05-19 08:00:00 +0800 | 惨痛的教训（The Bitter Lesson） | raw/posts/2026/2026-05-19-bitter-lesson.md | bitter-lesson, rich-sutton, 人工智能
+- 2026-05-20 08:00:00 +0800 | 基于 Pi Agent SDK 适配 OpenAI 兼容接口 | raw/posts/2026/2026-05-20-pi-agent-ollama-integration-guide.md | pi-agent, ollama, typescript
+- 2026-05-21 18:00:00 +0800 | Pi Agent Core 开发指南 | raw/posts/2026/2026-05-21-pi-agent-core-readme.md | pi-agent, pi-agent-core, typescript
+- 2026-05-21 08:00:00 +0800 | Pi Agent SDK 参考文档 | raw/posts/2026/2026-05-21-pi-agent-sdk-guide.md | pi-agent, sdk, typescript
+- 2026-05-24 08:00:00 +0800 | Pi Agent Event Examples | raw/posts/2026/2026-05-24-pi-agent-event-examples.md | pi-agent, event-driven, typescript
+- 2026-05-25 08:00:00 +0800 | Mac 屏幕素材处理指南：从多图合成 GIF 到 FFmpeg 视频智能去重压缩 | raw/posts/2026/2026-05-25-mac-screen-media-guide-gif-ffmpeg-compression.md | ffmpeg, imagemagick, 视频压缩
+- 2026-05-26 12:00:00 +0800 | 发表于 Twitter/X 的推文（关于 AI 代笔邮件） | raw/posts/2026/2026-05-26-quote-paul-graham.md | paul-graham, writing, ai
+- 2026-05-28 08:00:00 +0800 | LiteLLM 代理实践：安装、配置与测试 | raw/posts/2026/2026-05-28-litellm.md | litellm, ai-gateway, proxy
+- 2026-05-29 18:00:00 +0800 | Claude Code 安装、更新与卸载指南 | raw/posts/2026/2026-05-29-claude-code.md | claude-code, install, uninstall
+- 2026-05-29 08:00:00 +0800 | 彻底搞懂 uv pip、uv add 和 uv tool 的核心区别 | raw/posts/2026/2026-05-29-uv-pip-add-tool.md | uv, python, package-management
+- 2026-06-01 08:00:00 +0800 | Claude Code 智能编程实战 | raw/posts/2026/2026-06-01-claude-code.md | claude-code, agentic-coding, claude-md
+- 2026-06-02 08:00:00 +0800 | KiloCode AGENTS.md - OpenCode 智能体指南 | raw/posts/2026/2026-06-02-kilo-opencode-agent-guidelines.md | kilocode, opencode, agents-md
+- 2026-06-02 12:00:00 +0800 | AGPL-3.0（GNU Affero 通用公共许可证 v3.0） | raw/posts/2026/2026-06-02-license-agpl-v3.md | agpl-3.0, license, open-source
+- 2026-06-03 11:00:00 +0800 | 协同进化：寻找智能体时代效率与商业的平衡点（罗福莉） | raw/posts/2026/2026-06-03-agent-era-coevolution-and-compute-economics.md | anthropic, mimo, claude-code
+- 2026-06-04 18:00:00 +0800 | 端侧AI：Gemma 4 12B 创新架构与 LiteRT-LM 本地部署指南 | raw/posts/2026/2026-06-04-edge-litert-lm-gemma4.md | gemma-4-12b, litert-lm, edge-ai
+- 2026-06-06 08:00:00 +0800 | 海量文本去重与相似度检索：从 Jaccard 到 MinHash 的完整技术指南 | raw/posts/2026/2026-06-06-jaccard-minhash-text-similarity-guide.md | jaccard-similarity, minhash, lsh
+- 2026-06-06 20:00:00 +0800 | 深入浅出 k-Shingle：海量文本去重的防篡改利器 | raw/posts/2026/2026-06-06-k-shingle-text-deduplication-anti-tampering-guide.md | k-shingle, 文本去重, 防篡改
+- 2026-06-07 06:00:00 +0800 | AI编码助手代码归因与贡献占比量化系统设计 | raw/posts/2026/2026-06-07-coding-assistant-contribution-ratio-design.md | ai-coding-assistant, 代码归因, 贡献占比
+- 2026-06-07 08:00:00 +0800 | 普通高中英语课程标准（2017年版2025年修订）附录2 词汇表 | raw/posts/2026/2026-06-07-general-high-school-vocabulary-2025.md | 高中英语, 课程标准, 词汇表
+- 2026-06-09 12:00:00 +0800 | 发表于 Twitter/X 的推文（关于 Claude Fable 5） | raw/posts/2026/2026-06-09-quote-andrej-karpathy.md | ai, andrej-karpathy, generative-ai
+- 2026-06-10 08:00:00 +0800 | audio2sub — 音频转字幕工具 | raw/posts/2026/2026-06-10-audio2sub.md | audio2sub, 音频转字幕, openai-whisper
+- 2026-06-13 11:00:00 +0800 | 人类多行星物种首个星际 IPO - SpaceX | raw/posts/2026/2026-06-13-release-spacex.md | spacex, ipo, s-1
+- 2026-06-16 16:04:00 +0800 | 发表于 Boykis 的文章《现在运行本地模型很不错了》底部的 Hacker News 评论 | raw/posts/2026/2026-06-16-quote-georgi-gerganov.md | ai, generative-ai, local-llms
+- 2026-06-17 06:00:00 +0800 | Kilo Code AI 代码生成率与归因分析 — 系统设计 | raw/posts/2026/2026-06-17-kilo-code-ai-code-gen-rate-attribution-system-design.md | kilo-code, ai-code-generation, attribution-analysis
+- 2026-06-17 11:00:00 +0800 | Open Knowledge Format (OKF) | raw/posts/2026/2026-06-17-open-knowledge-format-0.1.md | open-knowledge-format, okf, 知识表示
+- 2026-06-19 00:00:00 +0800 | 本周 AI 新闻 20260619 | raw/posts/2026/2026-06-19-ai-weekly.md | ai-weekly, anthropic, cursor
+- 2026-06-20 16:00:00 +0800 | 研究 Simon Willison 的博客设计风格和内容组织方式 | raw/posts/2026/2026-06-20-release-simon-willison-blog-analysis.md | blog, blog-design, content-organization
+- 2026-06-21 22:56:00 +0800 | Simon Willison 的博客 - Django创始人、AI工程极客 | raw/posts/2026/2026-06-21-link-simon-willison-weblog.md | blog, simon-willison, django
+- 2026-06-21 13:30:00 +0800 |  | raw/posts/2026/2026-06-21-note-qr-code.md | qr-code, javascript, jsqr
+- 2026-06-21 10:22:00 +0800 | JSON 格式化 / 压缩：纯前端在线 JSON 处理工具 | raw/posts/2026/2026-06-21-release-json-prettifier.md | tool, json, formatter
+- 2026-06-21 23:11:00 +0800 | 扫雷：浏览器本地益智游戏 | raw/posts/2026/2026-06-21-release-minesweeper.md | tool, game, minesweeper
+- 2026-06-21 16:28:00 +0800 | 坦克大战：纯前端经典坦克射击游戏 | raw/posts/2026/2026-06-21-release-tank-game.md | tool, game, tank-battle
+- 2026-06-22 23:35:00 +0800 | 剪贴板备份：浏览器本地剪贴板历史管理工具 | raw/posts/2026/2026-06-22-release-clipboard-backup.md | tool, clipboard, backup
+- 2026-06-22 22:45:00 +0800 | DOT 文件渲染器：在线 Graphviz 图形预览工具 | raw/posts/2026/2026-06-22-release-dot.md | tool, dot, graphviz
+- 2026-06-22 20:53:00 +0800 | 二维码识别器：支持图片上传、剪贴板粘贴与摄像头扫码 | raw/posts/2026/2026-06-22-release-qr-code-decoder.md | tool, qr-code, scanner
+- 2026-06-22 19:24:00 +0800 | 二维码生成器：支持网址、文本与 WiFi 的在线二维码工具 | raw/posts/2026/2026-06-22-release-qr-code-generator.md | tool, qrcode, 二维码
+- 2026-06-22 22:45:00 +0800 | Markdown 渲染器：在线 Markdown 转 HTML 工具 | raw/posts/2026/2026-06-22-release-render-markdown.md | tool, markdown, 在线工具
+- 2026-06-22 23:24:00 +0800 | SVG 渲染器：在线 SVG 实时预览工具 | raw/posts/2026/2026-06-22-release-svg-renderer.md | tool, svg, 在线工具
+- 2026-06-22 18:49:00 +0800 | 高中英语词汇速记：卡片式背单词与复习工具 | raw/posts/2026/2026-06-22-release-word-memory.md | tool, english-words, vocabulary
+- 2026-06-23 23:59:00 +0800 | JiuwenSwarm 架构设计、工作原理与核心模块深度剖析 | raw/posts/2026/2026-06-23-jiuwenswarm-architecture-analysis.md | jiuwenswarm, agent, 智能体
+- 2026-06-23 23:15:00 +0800 | 高中英语3500词：浏览器本地背单词工具 | raw/posts/2026/2026-06-23-release-english-words.md | tool, english-words, vocabulary
+- 2026-06-23 20:50:00 +0800 | 极简长文朗读器：左右分屏实时朗读工具 | raw/posts/2026/2026-06-23-release-minimalist-long-text-reader.md | tool, tts, text-to-speech
+- 2026-06-23 22:10:00 +0800 | Read Aloud：浏览器本地长文朗读器 | raw/posts/2026/2026-06-23-release-read-aloud.md | tool, tts, text-to-speech
+- 2026-06-24 22:45:00 +0800 | 浏览器原生语音合成（TTS）开发经验 | raw/posts/2026/2026-06-24-browser-tts-experience.md | tts, text-to-speech, web-speech-api
+- 2026-06-24 21:36:00 +0800 | 智能朗读阅读器：浏览器本地中英文长文朗读工具 | raw/posts/2026/2026-06-24-release-reading-companion.md | tool, tts, text-to-speech
+- 2026-06-25 22:36:00 +0800 | 免费在线翻译工具：无需注册的多源翻译与朗读 | raw/posts/2026/2026-06-25-release-online-translator.md | tool, browser, localstorage
+- 2026-06-26 19:19:00 +0800 | 本周 AI 新闻 20260626 | raw/posts/2026/2026-06-26-ai-weekly.md | ai-weekly, openai, anthropic
+- 2026-06-26 21:18:06 +0800 | Excalidraw - 开源手绘风格虚拟白板 | raw/posts/2026/2026-06-26-link-excalidraw.md | excalidraw, whiteboard, diagram
+- 2026-06-27 21:19:00 +0800 | 基于 DSpark 的投机解码训练框架原理与实现（论文+代码对照） | raw/posts/2026/2026-06-27-deepseek-dspark.md | dspark, paper, deepspec
+- 2026-06-27 09:09:57 +0800 | MinerU - 高精度文档解析引擎，为 LLM / RAG / Agent 提供结构化数据 | raw/posts/2026/2026-06-27-link-mineru.md | mineru, opendatalab, document-parsing
+- 2026-06-27 10:00:00 +0800 | SkVM - 面向 LLM 技能的编译与运行时系统 | raw/posts/2026/2026-06-27-link-skvm.md | arxiv, paper, skill
+- 2026-06-28 19:56:00 +0800 | Google DESIGN.md 规范与实践指南 | raw/posts/2026/2026-06-28-design-spec.md | translation, design.md, design
+- 2026-06-28 16:59:00 +0800 | DESIGN.md - 面向智能体描述视觉识别系统的格式规范 | raw/posts/2026/2026-06-28-design.md | translation, design.md, design
+- 2026-06-28 17:59:00 +0800 | DESIGN.md - 给智能体阅读的‘UI/UX 说明书’ | raw/posts/2026/2026-06-28-link-design.md | design.md, design, agent
+- 2026-06-28 10:09:00 +0800 | DSpark：结合半自回归生成与置信度调度的投机解码技术 | raw/posts/2026/2026-06-28-link-dspark.md | paper, dspark, deepspec
+- 2026-06-28 21:24:00 +0800 | Google Stitch - AI 原生 UI 设计工具 | raw/posts/2026/2026-06-28-stitch.md | translation, stitch, design
+- 2026-06-29 22:55:00 +0800 | DeepSpec 训练全流程详解（以 Qwen3 + DSpark 为例） | raw/posts/2026/2026-06-29-deepspec-qwen3-dspark.md | deepspec, qwen3, dspark
+- 2026-06-29 18:48:00 +0800 | DSpark：基于置信度调度的半自回归生成推测解码 | raw/posts/2026/2026-06-29-paper-dspark.md | translation, paper, dspark
+- 2026-06-29 22:15:00 +0800 | 朗读者：浏览器本地中英文长文朗读器 | raw/posts/2026/2026-06-29-release-reader.md | tool, browser, localstorage
+- 2026-06-30 00:00:00 +0800 | 大模型推理加速：DFlash、DSpark 与 Eagle3 草稿模型选型与架构设计指南 | raw/posts/2026/2026-06-30-dspark-dflash-eagle3.md | dspark, dflash, eagle3
+- 2026-06-30 00:24:00 +0800 | SkVM：面向随处高效执行的技能编译 | raw/posts/2026/2026-06-30-paper-skvm.md | translation, arxiv, paper
+- 2026-07-01 15:00:00 +0800 | 智能问答售后服务系统 | raw/posts/2026/2026-07-01-intelligent-customer-service.md | rag, llm, ai
+- 2026-07-03 21:42:00 +0800 | AI 生态实验室 · 技术雷达：工作流程全景解读 | raw/posts/2026/2026-07-03-ai-eco-lab-workflow.md | workflow, process, radar
+- 2026-07-03 23:22:00 +0800 | 本周 AI 新闻 20260703 | raw/posts/2026/2026-07-03-ai-weekly.md | ai-weekly, ai-governance, anthropic
+- 2026-07-04 19:09:00 +0800 | Andrej Karpathy 的 CLAUDE 编码准则 | raw/posts/2026/2026-07-04-andrej-karpathy-coding-guidelines.md | translation, claude, claude-code
+- 2026-07-04 09:08:00 +0800 | 自我改进的 Harness 工程（Harness Engineering for Self-Improvement） | raw/posts/2026/2026-07-04-harness-engineering-for-self-improvement.md | translation, harness, self-improvement
+- 2026-07-04 03:02:00 +0800 | GraphvizOnline - 浏览器端的 DOT 语言即时图可视化工具 | raw/posts/2026/2026-07-04-link-graphviz-online.md | browser, diagram, dot-language
+- 2026-07-04 02:45:00 +0800 | PhotoRoom - AI 驱动的即时抠图与产品照片编辑平台 | raw/posts/2026/2026-07-04-link-photoroom.md | ai-image-generation, background-removal, ecommerce
+- 2026-07-05 20:31:00 +0800 | 智源对世界模型的思考（王仲远） | raw/posts/2026/2026-07-05-baai-world-model.md | baai, world-model, physical-ai
+- 2026-07-06 23:52:00 +0800 | Claude Fable 实战指南：发现你的未知 | raw/posts/2026/2026-07-06-a-field-guide-to-claude-fable-finding-your-unknowns.md | translation, claude, fable
+- 2026-07-06 21:21:00 +0800 | 开源 AI 生态研究项目 Git 大文件 LFS 配置教程与团队开发指南 | raw/posts/2026/2026-07-06-open-ai-eco-git-lfs.md | git, lfs, github
+- 2026-07-07 10:31:00 +0800 | WorkBuddy 实战案例：日常办公 | raw/posts/2026/2026-07-07-workbuddy-showcase-work.md | workbuddy, agent, office-automation
+- 2026-07-09 23:13:00 +0800 | WorkBuddy 核心设计架构 | raw/posts/2026/2026-07-09-workbuddy-inside.md | workbuddy, agent, architecture
+- 2026-07-09 22:28:00 +0800 | WorkBuddy 实战案例：代码开发 | raw/posts/2026/2026-07-09-workbuddy-showcase-coding.md | workbuddy, agent, coding
+- 2026-07-11 07:44:00 +0800 | WorkBuddy 实战案例：设计创意 | raw/posts/2026/2026-07-11-workbuddy-showcase-design.md | workbuddy, agent, design
+- 2026-07-12 18:57:00 +0800 | Agent 系统设计的核心思想 | raw/posts/2026/2026-07-12-agent-design-inside.md | workbuddy, agent, design
+- 2026-07-12 23:45:00 +0800 | 拆解 WorkBuddy：系统提示词如何拼装，模型清单如何定义 | raw/posts/2026/2026-07-12-workbuddy-internals.md | workbuddy, agent, templates
+- 2026-07-12 23:34:00 +0800 | WorkBuddy：iOA 渠道模型完整对照表 | raw/posts/2026/2026-07-12-workbuddy-ioa-models-comparison.md | workbuddy, agent, models
+- 2026-07-12 23:22:00 +0800 | WorkBuddy 模型定义与配置研究 | raw/posts/2026/2026-07-12-workbuddy-models-config-research.md | workbuddy, agent, models
+- 2026-07-12 20:50:00 +0800 | WorkBuddy 提示词模板体系深度解析 | raw/posts/2026/2026-07-12-workbuddy-templates_research_report.md | workbuddy, agent, templates
+- 2026-07-16 10:24:00 +0800 | CodeBuddy 官方插件市场 · 插件分类清单 | raw/posts/2026/2026-07-16-codebuddy-plugins-official.md | workbuddy, codebuddy, agent
+- 2026-07-16 22:00:00 +0800 | 坦克大战：浏览器本地俯视角街机射击游戏 | raw/posts/2026/2026-07-16-release-tank-battle.md | arcade, browser, game
+- 2026-07-17 23:03:00 +0800 | 用单文件 HTML 写一个能对弈的中国象棋 AI——从规则引擎到 Alpha-Beta 剪枝 | raw/posts/2026/2026-07-17-chinese-chess-dev-summary.md | ai, browser, chess
+- 2026-07-17 20:11:00 +0800 | CodeBuddy 官方插件市场 · 四大领域插件 | raw/posts/2026/2026-07-17-codebuddy-plugins-official-domains-summary.md | workbuddy, codebuddy, agent
+- 2026-07-17 23:03:08 +0800 | 中国象棋：浏览器本地人机对弈游戏 | raw/posts/2026/2026-07-17-release-chinese-chess.md | ai, browser, chess
+- 2026-07-17 00:06:00 +0800 | 坦克大战（HTML5）开发教程 | raw/posts/2026/2026-07-17-tank-battle-dev-quick.md | tank-battle, tutorial, html5-canvas
+- 2026-07-18 18:43:00 +0800 | open-ai-eco 接入本地 Agent：ACP 协议开发实践与架构总结 | raw/posts/2026/2026-07-18-acp-agent-integration.md | open-ai-eco, agent, acp
+- 2026-07-18 21:10:00 +0800 | Hallmark 使用指南 | raw/posts/2026/2026-07-18-hallmark-design-skill-guide.md | hallmark, skill, design
+- 2026-07-18 23:51:00 +0800 | WorkBuddy Prompt 模板文件 | raw/posts/2026/2026-07-18-workbuddy-prompt-templates.md | workbuddy, prompt, templates
